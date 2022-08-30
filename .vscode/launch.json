@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "chrome",
+      "name": "Launch",
+      "request": "launch",
+      "url": "http://localhost:1234",
+      "webRoot": "${workspaceFolder}",
+      "sourceMapPathOverrides": {
+        "/__parcel_source_root/*": "${webRoot}/*"
+      }
+    }
+  ]
+}

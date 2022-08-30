@@ -1,0 +1,28 @@
+{
+  "name": "ts-collision",
+  "packageManager": "yarn@3.2.3",
+  "source": "src/index.pug",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "serve": "parcel",
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@parcel/transformer-pug": "2.7.0",
+    "@parcel/transformer-sass": "2.7.0",
+    "@prettier/plugin-pug": "^2.2.0",
+    "@types/eslint": "^8",
+    "@types/p5": "^1",
+    "@types/prettier": "^2",
+    "@types/uuid": "^8",
+    "@typescript-eslint/eslint-plugin": "^5.35.1",
+    "@typescript-eslint/parser": "^5.35.1",
+    "eslint": "^8.22.0",
+    "eslint-config-prettier": "^8.5.0",
+    "p5": "^1.4.2",
+    "parcel": "^2.7.0",
+    "prettier": "^2.7.1",
+    "typescript": "^4.8.2",
+    "uuid": "^8.3.2"
+  }
+}
