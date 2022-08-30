@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "target": "ES2015",
+    "strict": true,
+    "moduleResolution": "node"
+  },
+  "include": ["./src/**/*"]
+}
