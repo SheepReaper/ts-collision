@@ -1113,13 +1113,13 @@ __metadata:
   linkType: hard
 
 "@prettier/plugin-pug@npm:^2.2.0":
-  version: 2.2.0
-  resolution: "@prettier/plugin-pug@npm:2.2.0"
+  version: 2.5.2
+  resolution: "@prettier/plugin-pug@npm:2.5.2"
   dependencies:
-    pug-lexer: ^5.0.0
+    pug-lexer: ^5.0.1
   peerDependencies:
     prettier: ^2.3.0
-  checksum: 0a67978f91a0a826891e3008d2315cafd6e069c0237f0a07a55355ab855c10dc092b5dad8f9044a57dea908d6df1aaae397e28b2206b7bf67b41dd741398d57f
+  checksum: 30eb7165338a7b34a6b1d68dfef1cd0494dffcc95ff52981a6f199ee6e97313f447bff2742d014c0ac2cb79dc47b9f69b10aeffd180d552afa7a7b8c6d1a08e0
   languageName: node
   linkType: hard
 
@@ -3531,7 +3531,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"pug-lexer@npm:^5.0.0, pug-lexer@npm:^5.0.1":
+"pug-lexer@npm:^5.0.1":
   version: 5.0.1
   resolution: "pug-lexer@npm:5.0.1"
   dependencies:
