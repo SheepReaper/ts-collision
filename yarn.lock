@@ -1112,7 +1112,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@prettier/plugin-pug@npm:^2.2.0":
+"@prettier/plugin-pug@npm:2.2.0":
   version: 2.2.0
   resolution: "@prettier/plugin-pug@npm:2.2.0"
   dependencies:
@@ -1146,7 +1146,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/eslint@npm:^8.4.6":
+"@types/eslint@npm:8.4.6":
   version: 8.4.6
   resolution: "@types/eslint@npm:8.4.6"
   dependencies:
@@ -1170,7 +1170,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/p5@npm:^1.4.2":
+"@types/p5@npm:1.4.2":
   version: 1.4.2
   resolution: "@types/p5@npm:1.4.2"
   checksum: 9bdb365d3141f1d29bee4060cf24f9ca3bea0f6410b5dd3d2f9d04c0c8863d778b69de191925d04a73d8a6758db5c599580c940fc47f22c71236b97367448410
@@ -1184,21 +1184,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/prettier@npm:^2.7.0":
+"@types/prettier@npm:2.7.0":
   version: 2.7.0
   resolution: "@types/prettier@npm:2.7.0"
   checksum: bf5d0c7c1270909b39399539ac106d20ddaa85fe92eb1d59922dc99159604b4f8d5e41b0045fb29c8011585cf5bca2350b7441ef3d9816c08bd0e10ebd4b31d4
   languageName: node
   linkType: hard
 
-"@types/uuid@npm:^8.3.4":
+"@types/uuid@npm:8.3.4":
   version: 8.3.4
   resolution: "@types/uuid@npm:8.3.4"
   checksum: 6f11f3ff70f30210edaa8071422d405e9c1d4e53abbe50fdce365150d3c698fe7bbff65c1e71ae080cbfb8fded860dbb5e174da96fdbbdfcaa3fb3daa474d20f
   languageName: node
   linkType: hard
 
-"@typescript-eslint/eslint-plugin@npm:^5.36.1":
+"@typescript-eslint/eslint-plugin@npm:5.36.1":
   version: 5.36.1
   resolution: "@typescript-eslint/eslint-plugin@npm:5.36.1"
   dependencies:
@@ -1221,7 +1221,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/parser@npm:^5.36.1":
+"@typescript-eslint/parser@npm:5.36.1":
   version: 5.36.1
   resolution: "@typescript-eslint/parser@npm:5.36.1"
   dependencies:
@@ -2036,7 +2036,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-prettier@npm:^8.5.0":
+"eslint-config-prettier@npm:8.5.0":
   version: 8.5.0
   resolution: "eslint-config-prettier@npm:8.5.0"
   peerDependencies:
@@ -2092,7 +2092,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint@npm:^8.23.0":
+"eslint@npm:8.23.0":
   version: 8.23.0
   resolution: "eslint@npm:8.23.0"
   dependencies:
@@ -3297,14 +3297,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"p5@npm:^1.4.2":
+"p5@npm:1.4.2":
   version: 1.4.2
   resolution: "p5@npm:1.4.2"
   checksum: a18177ce20e6e6ef863630d410b585bdfda4d29d28f9ac8b757309135a447309d9bb814beba1663b4287b19d9708b2750551209724ca4616c8dc62609602e514
   languageName: node
   linkType: hard
 
-"parcel@npm:^2.7.0":
+"parcel@npm:2.7.0":
   version: 2.7.0
   resolution: "parcel@npm:2.7.0"
   dependencies:
@@ -3449,7 +3449,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:^2.7.1":
+"prettier@npm:2.7.1":
   version: 2.7.1
   resolution: "prettier@npm:2.7.1"
   bin:
@@ -4048,20 +4048,20 @@ __metadata:
   dependencies:
     "@parcel/transformer-pug": 2.7.0
     "@parcel/transformer-sass": 2.7.0
-    "@prettier/plugin-pug": ^2.2.0
-    "@types/eslint": ^8.4.6
-    "@types/p5": ^1.4.2
-    "@types/prettier": ^2.7.0
-    "@types/uuid": ^8.3.4
-    "@typescript-eslint/eslint-plugin": ^5.36.1
-    "@typescript-eslint/parser": ^5.36.1
-    eslint: ^8.23.0
-    eslint-config-prettier: ^8.5.0
-    p5: ^1.4.2
-    parcel: ^2.7.0
-    prettier: ^2.7.1
-    typescript: ^4.8.2
-    uuid: ^8.3.2
+    "@prettier/plugin-pug": 2.2.0
+    "@types/eslint": 8.4.6
+    "@types/p5": 1.4.2
+    "@types/prettier": 2.7.0
+    "@types/uuid": 8.3.4
+    "@typescript-eslint/eslint-plugin": 5.36.1
+    "@typescript-eslint/parser": 5.36.1
+    eslint: 8.23.0
+    eslint-config-prettier: 8.5.0
+    p5: 1.4.2
+    parcel: 2.7.0
+    prettier: 2.7.1
+    typescript: 4.8.2
+    uuid: 8.3.2
   languageName: unknown
   linkType: soft
 
@@ -4106,7 +4106,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:^4.8.2":
+"typescript@npm:4.8.2":
   version: 4.8.2
   resolution: "typescript@npm:4.8.2"
   bin:
@@ -4116,7 +4116,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@^4.8.2#~builtin<compat/typescript>":
+"typescript@patch:typescript@4.8.2#~builtin<compat/typescript>":
   version: 4.8.2
   resolution: "typescript@patch:typescript@npm%3A4.8.2#~builtin<compat/typescript>::version=4.8.2&hash=a1c5e5"
   bin:
@@ -4181,7 +4181,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"uuid@npm:^8.3.2":
+"uuid@npm:8.3.2":
   version: 8.3.2
   resolution: "uuid@npm:8.3.2"
   bin:
