@@ -19,7 +19,7 @@
     "@typescript-eslint/eslint-plugin": "5.36.1",
     "@typescript-eslint/parser": "5.36.1",
     "eslint": "8.23.0",
-    "eslint-config-prettier": "8.5.0",
+    "eslint-config-prettier": "9.0.0",
     "p5": "1.4.2",
     "parcel": "2.7.0",
     "prettier": "3.0.3",
