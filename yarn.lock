@@ -1112,14 +1112,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@prettier/plugin-pug@npm:2.2.0":
-  version: 2.2.0
-  resolution: "@prettier/plugin-pug@npm:2.2.0"
+"@prettier/plugin-pug@npm:3.0.0":
+  version: 3.0.0
+  resolution: "@prettier/plugin-pug@npm:3.0.0"
   dependencies:
-    pug-lexer: ^5.0.0
+    pug-lexer: ^5.0.1
   peerDependencies:
-    prettier: ^2.3.0
-  checksum: 0a67978f91a0a826891e3008d2315cafd6e069c0237f0a07a55355ab855c10dc092b5dad8f9044a57dea908d6df1aaae397e28b2206b7bf67b41dd741398d57f
+    prettier: ^3.0.0
+  checksum: 06ad73e3abfd8d70666b8d12864b92a7bc65828f615fa60533d6c33b49e87638a9e3cbd1de1f4fae3a7f64c619bd035017d827ed668d724deeb7c3b161e723da
   languageName: node
   linkType: hard
 
@@ -3531,7 +3531,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"pug-lexer@npm:^5.0.0, pug-lexer@npm:^5.0.1":
+"pug-lexer@npm:^5.0.1":
   version: 5.0.1
   resolution: "pug-lexer@npm:5.0.1"
   dependencies:
@@ -4048,7 +4048,7 @@ __metadata:
   dependencies:
     "@parcel/transformer-pug": 2.7.0
     "@parcel/transformer-sass": 2.7.0
-    "@prettier/plugin-pug": 2.2.0
+    "@prettier/plugin-pug": 3.0.0
     "@types/eslint": 8.4.6
     "@types/p5": 1.4.2
     "@types/prettier": 2.7.0
