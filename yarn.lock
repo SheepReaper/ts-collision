@@ -1390,10 +1390,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/p5@npm:1.4.2":
-  version: 1.4.2
-  resolution: "@types/p5@npm:1.4.2"
-  checksum: 9bdb365d3141f1d29bee4060cf24f9ca3bea0f6410b5dd3d2f9d04c0c8863d778b69de191925d04a73d8a6758db5c599580c940fc47f22c71236b97367448410
+"@types/p5@npm:1.7.0":
+  version: 1.7.0
+  resolution: "@types/p5@npm:1.7.0"
+  checksum: ea9aa35e9234fcf9182bdf00617befe71324ca7ab90f1b99890f964ddaea0b8c36b719ea20d9865599f682bbe46024ce172755bf70f13d3c3522ca42b6eb702e
   languageName: node
   linkType: hard
 
@@ -3656,10 +3656,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"p5@npm:1.4.2":
-  version: 1.4.2
-  resolution: "p5@npm:1.4.2"
-  checksum: a18177ce20e6e6ef863630d410b585bdfda4d29d28f9ac8b757309135a447309d9bb814beba1663b4287b19d9708b2750551209724ca4616c8dc62609602e514
+"p5@npm:1.7.0":
+  version: 1.7.0
+  resolution: "p5@npm:1.7.0"
+  checksum: 9596b0ac8f871cc9585c41feb145ed61ca7ba53a63a9be454c41ad5a61103b905c3a1d4b0fad8f7beaed35d539a4c2accae9570a25f9be5add2df6abd26f6491
   languageName: node
   linkType: hard
 
@@ -4396,14 +4396,14 @@ __metadata:
     "@parcel/transformer-sass": 2.9.3
     "@prettier/plugin-pug": 3.0.0
     "@types/eslint": 8.44.3
-    "@types/p5": 1.4.2
+    "@types/p5": 1.7.0
     "@types/prettier": 2.7.3
     "@types/uuid": 9.0.4
     "@typescript-eslint/eslint-plugin": 6.7.3
     "@typescript-eslint/parser": 6.7.3
     eslint: 8.50.0
     eslint-config-prettier: 9.0.0
-    p5: 1.4.2
+    p5: 1.7.0
     parcel: 2.9.3
     prettier: 3.0.3
     typescript: 5.2.2
