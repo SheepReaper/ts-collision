@@ -32,7 +32,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@parcel/transformer-sass", "npm:2.10.0"],\
             ["@prettier/plugin-pug", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:3.0.0"],\
             ["@types/eslint", "npm:8.44.6"],\
-            ["@types/p5", "npm:1.7.0"],\
+            ["@types/p5", "npm:1.7.1"],\
             ["@types/prettier", "npm:2.7.3"],\
             ["@types/uuid", "npm:9.0.6"],\
             ["@typescript-eslint/eslint-plugin", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:6.8.0"],\
@@ -1731,10 +1731,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/p5", [\
-        ["npm:1.7.0", {\
-          "packageLocation": "./.yarn/cache/@types-p5-npm-1.7.0-0f81ebb3f0-ea9aa35e92.zip/node_modules/@types/p5/",\
+        ["npm:1.7.1", {\
+          "packageLocation": "./.yarn/cache/@types-p5-npm-1.7.1-6f4c5e4f19-daae198150.zip/node_modules/@types/p5/",\
           "packageDependencies": [\
-            ["@types/p5", "npm:1.7.0"]\
+            ["@types/p5", "npm:1.7.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -5242,7 +5242,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@parcel/transformer-sass", "npm:2.10.0"],\
             ["@prettier/plugin-pug", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:3.0.0"],\
             ["@types/eslint", "npm:8.44.6"],\
-            ["@types/p5", "npm:1.7.0"],\
+            ["@types/p5", "npm:1.7.1"],\
             ["@types/prettier", "npm:2.7.3"],\
             ["@types/uuid", "npm:9.0.6"],\
             ["@typescript-eslint/eslint-plugin", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:6.8.0"],\
