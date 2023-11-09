@@ -32,7 +32,7 @@ const RAW_RUNTIME_STATE =
           ["@types/eslint", "npm:8.44.7"],\
           ["@types/p5", "npm:1.7.3"],\
           ["@types/prettier", "npm:2.7.3"],\
-          ["@types/uuid", "npm:9.0.6"],\
+          ["@types/uuid", "npm:9.0.7"],\
           ["@typescript-eslint/eslint-plugin", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:6.9.1"],\
           ["@typescript-eslint/parser", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:6.9.1"],\
           ["eslint", "npm:8.53.0"],\
@@ -1761,10 +1761,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/uuid", [\
-      ["npm:9.0.6", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-uuid-npm-9.0.6-741993c9d3-10c0.zip/node_modules/@types/uuid/",\
+      ["npm:9.0.7", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-uuid-npm-9.0.7-c380bb8654-10c0.zip/node_modules/@types/uuid/",\
         "packageDependencies": [\
-          ["@types/uuid", "npm:9.0.6"]\
+          ["@types/uuid", "npm:9.0.7"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5156,7 +5156,7 @@ const RAW_RUNTIME_STATE =
           ["@types/eslint", "npm:8.44.7"],\
           ["@types/p5", "npm:1.7.3"],\
           ["@types/prettier", "npm:2.7.3"],\
-          ["@types/uuid", "npm:9.0.6"],\
+          ["@types/uuid", "npm:9.0.7"],\
           ["@typescript-eslint/eslint-plugin", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:6.9.1"],\
           ["@typescript-eslint/parser", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:6.9.1"],\
           ["eslint", "npm:8.53.0"],\
