@@ -30,7 +30,7 @@ const RAW_RUNTIME_STATE =
           ["@parcel/transformer-sass", "npm:2.10.2"],\
           ["@prettier/plugin-pug", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:3.0.0"],\
           ["@types/eslint", "npm:8.44.7"],\
-          ["@types/p5", "npm:1.7.2"],\
+          ["@types/p5", "npm:1.7.3"],\
           ["@types/prettier", "npm:2.7.3"],\
           ["@types/uuid", "npm:9.0.6"],\
           ["@typescript-eslint/eslint-plugin", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:6.9.1"],\
@@ -1734,10 +1734,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/p5", [\
-      ["npm:1.7.2", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-p5-npm-1.7.2-cdb8c6c287-10c0.zip/node_modules/@types/p5/",\
+      ["npm:1.7.3", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-p5-npm-1.7.3-d139171044-10c0.zip/node_modules/@types/p5/",\
         "packageDependencies": [\
-          ["@types/p5", "npm:1.7.2"]\
+          ["@types/p5", "npm:1.7.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5154,7 +5154,7 @@ const RAW_RUNTIME_STATE =
           ["@parcel/transformer-sass", "npm:2.10.2"],\
           ["@prettier/plugin-pug", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:3.0.0"],\
           ["@types/eslint", "npm:8.44.7"],\
-          ["@types/p5", "npm:1.7.2"],\
+          ["@types/p5", "npm:1.7.3"],\
           ["@types/prettier", "npm:2.7.3"],\
           ["@types/uuid", "npm:9.0.6"],\
           ["@typescript-eslint/eslint-plugin", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:6.9.1"],\
