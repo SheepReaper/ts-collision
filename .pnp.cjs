@@ -39,7 +39,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-config-prettier", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:9.0.0"],\
           ["p5", "npm:1.8.0"],\
           ["parcel", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:2.10.2"],\
-          ["prettier", "npm:3.0.3"],\
+          ["prettier", "npm:3.1.0"],\
           ["typescript", "patch:typescript@npm%3A5.2.2#optional!builtin<compat/typescript>::version=5.2.2&hash=f3b441"],\
           ["uuid", "npm:9.0.1"]\
         ],\
@@ -1533,7 +1533,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@prettier/plugin-pug", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:3.0.0"],\
           ["@types/prettier", "npm:2.7.3"],\
-          ["prettier", "npm:3.0.3"],\
+          ["prettier", "npm:3.1.0"],\
           ["pug-lexer", "npm:5.0.1"]\
         ],\
         "packagePeers": [\
@@ -4487,10 +4487,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["prettier", [\
-      ["npm:3.0.3", {\
-        "packageLocation": "./.yarn/unplugged/prettier-npm-3.0.3-fced695dae/node_modules/prettier/",\
+      ["npm:3.1.0", {\
+        "packageLocation": "./.yarn/unplugged/prettier-npm-3.1.0-708d6027b1/node_modules/prettier/",\
         "packageDependencies": [\
-          ["prettier", "npm:3.0.3"]\
+          ["prettier", "npm:3.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5164,7 +5164,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-config-prettier", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:9.0.0"],\
           ["p5", "npm:1.8.0"],\
           ["parcel", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:2.10.2"],\
-          ["prettier", "npm:3.0.3"],\
+          ["prettier", "npm:3.1.0"],\
           ["typescript", "patch:typescript@npm%3A5.2.2#optional!builtin<compat/typescript>::version=5.2.2&hash=f3b441"],\
           ["uuid", "npm:9.0.1"]\
         ],\
