@@ -97,20 +97,20 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@babel/parser", [\
-      ["npm:7.23.5", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@babel-parser-npm-7.23.5-6bd8ea402a-10c0.zip/node_modules/@babel/parser/",\
+      ["npm:7.23.6", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@babel-parser-npm-7.23.6-2fad283d6e-10c0.zip/node_modules/@babel/parser/",\
         "packageDependencies": [\
-          ["@babel/parser", "npm:7.23.5"],\
-          ["@babel/types", "npm:7.23.5"]\
+          ["@babel/parser", "npm:7.23.6"],\
+          ["@babel/types", "npm:7.23.6"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@babel/types", [\
-      ["npm:7.23.5", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@babel-types-npm-7.23.5-17488c6408-10c0.zip/node_modules/@babel/types/",\
+      ["npm:7.23.6", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@babel-types-npm-7.23.6-4e68ac9e9b-10c0.zip/node_modules/@babel/types/",\
         "packageDependencies": [\
-          ["@babel/types", "npm:7.23.5"],\
+          ["@babel/types", "npm:7.23.6"],\
           ["@babel/helper-string-parser", "npm:7.23.4"],\
           ["@babel/helper-validator-identifier", "npm:7.22.20"],\
           ["to-fast-properties", "npm:2.0.0"]\
@@ -172,7 +172,7 @@ const RAW_RUNTIME_STATE =
           ["ajv", "npm:6.12.6"],\
           ["debug", "virtual:4b12ba5111caf7e8338099bdbc7cb046a9f8e079a44e74d0c03dca469876e3071ebbe671c5e90ae6b78ae33e22c205fa5ed32169a4aabd1404b13c56d09986e1#npm:4.3.4"],\
           ["espree", "npm:9.6.1"],\
-          ["globals", "npm:13.23.0"],\
+          ["globals", "npm:13.24.0"],\
           ["ignore", "npm:5.3.0"],\
           ["import-fresh", "npm:3.3.0"],\
           ["js-yaml", "npm:4.1.0"],\
@@ -246,10 +246,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@lezer/common", [\
-      ["npm:1.1.1", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@lezer-common-npm-1.1.1-b27295a9ab-10c0.zip/node_modules/@lezer/common/",\
+      ["npm:1.1.2", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@lezer-common-npm-1.1.2-311df20de2-10c0.zip/node_modules/@lezer/common/",\
         "packageDependencies": [\
-          ["@lezer/common", "npm:1.1.1"]\
+          ["@lezer/common", "npm:1.1.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -259,7 +259,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/@lezer-lr-npm-1.3.14-d23bb06f00-10c0.zip/node_modules/@lezer/lr/",\
         "packageDependencies": [\
           ["@lezer/lr", "npm:1.3.14"],\
-          ["@lezer/common", "npm:1.1.1"]\
+          ["@lezer/common", "npm:1.1.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -323,7 +323,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/@mischnic-json-sourcemap-npm-0.1.1-eed67dd6e4-10c0.zip/node_modules/@mischnic/json-sourcemap/",\
         "packageDependencies": [\
           ["@mischnic/json-sourcemap", "npm:0.1.1"],\
-          ["@lezer/common", "npm:1.1.1"],\
+          ["@lezer/common", "npm:1.1.2"],\
           ["@lezer/lr", "npm:1.3.14"],\
           ["json5", "npm:2.2.3"]\
         ],\
@@ -903,7 +903,7 @@ const RAW_RUNTIME_STATE =
           ["@parcel/source-map", "npm:2.1.1"],\
           ["@parcel/types", "npm:2.10.3"],\
           ["@parcel/utils", "npm:2.10.3"],\
-          ["globals", "npm:13.23.0"],\
+          ["globals", "npm:13.24.0"],\
           ["nullthrows", "npm:1.1.1"]\
         ],\
         "linkType": "HARD"\
@@ -2162,7 +2162,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/babel-walk-npm-3.0.0-canary-5-61b07ed745-10c0.zip/node_modules/babel-walk/",\
         "packageDependencies": [\
           ["babel-walk", "npm:3.0.0-canary-5"],\
-          ["@babel/types", "npm:7.23.5"]\
+          ["@babel/types", "npm:7.23.6"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2238,8 +2238,8 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/browserslist-npm-4.22.2-87e70d8021-10c0.zip/node_modules/browserslist/",\
         "packageDependencies": [\
           ["browserslist", "npm:4.22.2"],\
-          ["caniuse-lite", "npm:1.0.30001566"],\
-          ["electron-to-chromium", "npm:1.4.601"],\
+          ["caniuse-lite", "npm:1.0.30001568"],\
+          ["electron-to-chromium", "npm:1.4.609"],\
           ["node-releases", "npm:2.0.14"],\
           ["update-browserslist-db", "virtual:87e70d802146e5a0e8f2a12b5ab64004040c6640441dba54229a7db766cb1b88edabd3d3c814ce33d6ba839c4e517b12e9b0a7febfca22ac2a64177042bf3ee6#npm:1.0.13"]\
         ],\
@@ -2289,10 +2289,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["caniuse-lite", [\
-      ["npm:1.0.30001566", {\
-        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001566-4f87887103-10c0.zip/node_modules/caniuse-lite/",\
+      ["npm:1.0.30001568", {\
+        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001568-f3cd98cf9b-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
-          ["caniuse-lite", "npm:1.0.30001566"]\
+          ["caniuse-lite", "npm:1.0.30001568"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2438,8 +2438,8 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/constantinople-npm-4.0.1-925d9c26ce-10c0.zip/node_modules/constantinople/",\
         "packageDependencies": [\
           ["constantinople", "npm:4.0.1"],\
-          ["@babel/parser", "npm:7.23.5"],\
-          ["@babel/types", "npm:7.23.5"]\
+          ["@babel/parser", "npm:7.23.6"],\
+          ["@babel/types", "npm:7.23.6"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2686,10 +2686,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["electron-to-chromium", [\
-      ["npm:1.4.601", {\
-        "packageLocation": "../../../../cache/others/berry/cache/electron-to-chromium-npm-1.4.601-e52ac99d09-10c0.zip/node_modules/electron-to-chromium/",\
+      ["npm:1.4.609", {\
+        "packageLocation": "../../../../cache/others/berry/cache/electron-to-chromium-npm-1.4.609-87ff3e9726-10c0.zip/node_modules/electron-to-chromium/",\
         "packageDependencies": [\
-          ["electron-to-chromium", "npm:1.4.601"]\
+          ["electron-to-chromium", "npm:1.4.609"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2817,7 +2817,7 @@ const RAW_RUNTIME_STATE =
           ["file-entry-cache", "npm:6.0.1"],\
           ["find-up", "npm:5.0.0"],\
           ["glob-parent", "npm:6.0.2"],\
-          ["globals", "npm:13.23.0"],\
+          ["globals", "npm:13.24.0"],\
           ["graphemer", "npm:1.4.0"],\
           ["ignore", "npm:5.3.0"],\
           ["imurmurhash", "npm:0.1.4"],\
@@ -3165,10 +3165,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["globals", [\
-      ["npm:13.23.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/globals-npm-13.23.0-7f02426fd5-10c0.zip/node_modules/globals/",\
+      ["npm:13.24.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/globals-npm-13.24.0-cc7713139c-10c0.zip/node_modules/globals/",\
         "packageDependencies": [\
-          ["globals", "npm:13.23.0"],\
+          ["globals", "npm:13.24.0"],\
           ["type-fest", "npm:0.20.2"]\
         ],\
         "linkType": "HARD"\
@@ -5310,8 +5310,8 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/with-npm-7.0.2-135a242adb-10c0.zip/node_modules/with/",\
         "packageDependencies": [\
           ["with", "npm:7.0.2"],\
-          ["@babel/parser", "npm:7.23.5"],\
-          ["@babel/types", "npm:7.23.5"],\
+          ["@babel/parser", "npm:7.23.6"],\
+          ["@babel/types", "npm:7.23.6"],\
           ["assert-never", "npm:1.2.1"],\
           ["babel-walk", "npm:3.0.0-canary-5"]\
         ],\
