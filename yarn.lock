@@ -1339,10 +1339,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/p5@npm:1.7.5":
-  version: 1.7.5
-  resolution: "@types/p5@npm:1.7.5"
-  checksum: 938c0f204c3c665031a5ccc6962d49e27877967912d81bb4417e571d51486f06e4a5139504d56a11f454a1fe819115824669f3350f396364a2b6ff179af62b21
+"@types/p5@npm:1.7.6":
+  version: 1.7.6
+  resolution: "@types/p5@npm:1.7.6"
+  checksum: 92f53b7666a346a70c144fd72e09d06b9ef54a099098629717d0a70043d2ce96f1e3f49e6d36c7afa7f27ceaa4b833cca50d9d33878d201fce7105658ace0a6e
   languageName: node
   linkType: hard
 
@@ -4303,7 +4303,7 @@ __metadata:
     "@parcel/transformer-sass": "npm:2.10.3"
     "@prettier/plugin-pug": "npm:3.0.0"
     "@types/eslint": "npm:8.44.9"
-    "@types/p5": "npm:1.7.5"
+    "@types/p5": "npm:1.7.6"
     "@types/prettier": "npm:2.7.3"
     "@types/uuid": "npm:9.0.7"
     "@typescript-eslint/eslint-plugin": "npm:6.14.0"
