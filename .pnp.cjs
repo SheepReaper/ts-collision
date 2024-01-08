@@ -1276,7 +1276,7 @@ const RAW_RUNTIME_STATE =
           ["@parcel/transformer-sass", "npm:2.11.0"],\
           ["@parcel/plugin", "npm:2.11.0"],\
           ["@parcel/source-map", "npm:2.1.1"],\
-          ["sass", "npm:1.69.6"]\
+          ["sass", "npm:1.69.7"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2251,8 +2251,8 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/browserslist-npm-4.22.2-87e70d8021-10c0.zip/node_modules/browserslist/",\
         "packageDependencies": [\
           ["browserslist", "npm:4.22.2"],\
-          ["caniuse-lite", "npm:1.0.30001572"],\
-          ["electron-to-chromium", "npm:1.4.616"],\
+          ["caniuse-lite", "npm:1.0.30001576"],\
+          ["electron-to-chromium", "npm:1.4.623"],\
           ["node-releases", "npm:2.0.14"],\
           ["update-browserslist-db", "virtual:87e70d802146e5a0e8f2a12b5ab64004040c6640441dba54229a7db766cb1b88edabd3d3c814ce33d6ba839c4e517b12e9b0a7febfca22ac2a64177042bf3ee6#npm:1.0.13"]\
         ],\
@@ -2260,10 +2260,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["cacache", [\
-      ["npm:18.0.1", {\
-        "packageLocation": "../../../../cache/others/berry/cache/cacache-npm-18.0.1-11c6564db0-10c0.zip/node_modules/cacache/",\
+      ["npm:18.0.2", {\
+        "packageLocation": "../../../../cache/others/berry/cache/cacache-npm-18.0.2-d6329a1b9d-10c0.zip/node_modules/cacache/",\
         "packageDependencies": [\
-          ["cacache", "npm:18.0.1"],\
+          ["cacache", "npm:18.0.2"],\
           ["@npmcli/fs", "npm:3.1.0"],\
           ["fs-minipass", "npm:3.0.3"],\
           ["glob", "npm:10.3.10"],\
@@ -2302,10 +2302,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["caniuse-lite", [\
-      ["npm:1.0.30001572", {\
-        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001572-a35218739b-10c0.zip/node_modules/caniuse-lite/",\
+      ["npm:1.0.30001576", {\
+        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001576-3d0983cdce-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
-          ["caniuse-lite", "npm:1.0.30001572"]\
+          ["caniuse-lite", "npm:1.0.30001576"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2709,10 +2709,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["electron-to-chromium", [\
-      ["npm:1.4.616", {\
-        "packageLocation": "../../../../cache/others/berry/cache/electron-to-chromium-npm-1.4.616-5e02ddb4c8-10c0.zip/node_modules/electron-to-chromium/",\
+      ["npm:1.4.623", {\
+        "packageLocation": "../../../../cache/others/berry/cache/electron-to-chromium-npm-1.4.623-950fa7fa1c-10c0.zip/node_modules/electron-to-chromium/",\
         "packageDependencies": [\
-          ["electron-to-chromium", "npm:1.4.616"]\
+          ["electron-to-chromium", "npm:1.4.623"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3915,7 +3915,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["make-fetch-happen", "npm:13.0.0"],\
           ["@npmcli/agent", "npm:2.2.0"],\
-          ["cacache", "npm:18.0.1"],\
+          ["cacache", "npm:18.0.2"],\
           ["http-cache-semantics", "npm:4.1.1"],\
           ["is-lambda", "npm:1.0.1"],\
           ["minipass", "npm:7.0.4"],\
@@ -4812,10 +4812,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["sass", [\
-      ["npm:1.69.6", {\
-        "packageLocation": "../../../../cache/others/berry/cache/sass-npm-1.69.6-734850663f-10c0.zip/node_modules/sass/",\
+      ["npm:1.69.7", {\
+        "packageLocation": "../../../../cache/others/berry/cache/sass-npm-1.69.7-ac434a094c-10c0.zip/node_modules/sass/",\
         "packageDependencies": [\
-          ["sass", "npm:1.69.6"],\
+          ["sass", "npm:1.69.7"],\
           ["chokidar", "npm:3.5.3"],\
           ["immutable", "npm:4.3.4"],\
           ["source-map-js", "npm:1.0.2"]\
