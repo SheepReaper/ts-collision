@@ -97,20 +97,20 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@babel/parser", [\
-      ["npm:7.23.9", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@babel-parser-npm-7.23.9-720a0b56cb-10c0.zip/node_modules/@babel/parser/",\
+      ["npm:7.24.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@babel-parser-npm-7.24.0-0a438e924c-10c0.zip/node_modules/@babel/parser/",\
         "packageDependencies": [\
-          ["@babel/parser", "npm:7.23.9"],\
-          ["@babel/types", "npm:7.23.9"]\
+          ["@babel/parser", "npm:7.24.0"],\
+          ["@babel/types", "npm:7.24.0"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@babel/types", [\
-      ["npm:7.23.9", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@babel-types-npm-7.23.9-c32aeb5f36-10c0.zip/node_modules/@babel/types/",\
+      ["npm:7.24.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@babel-types-npm-7.24.0-a0508cb308-10c0.zip/node_modules/@babel/types/",\
         "packageDependencies": [\
-          ["@babel/types", "npm:7.23.9"],\
+          ["@babel/types", "npm:7.24.0"],\
           ["@babel/helper-string-parser", "npm:7.23.4"],\
           ["@babel/helper-validator-identifier", "npm:7.22.20"],\
           ["to-fast-properties", "npm:2.0.0"]\
@@ -2177,7 +2177,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/babel-walk-npm-3.0.0-canary-5-61b07ed745-10c0.zip/node_modules/babel-walk/",\
         "packageDependencies": [\
           ["babel-walk", "npm:3.0.0-canary-5"],\
-          ["@babel/types", "npm:7.23.9"]\
+          ["@babel/types", "npm:7.24.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2253,8 +2253,8 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/browserslist-npm-4.23.0-8126a959d4-10c0.zip/node_modules/browserslist/",\
         "packageDependencies": [\
           ["browserslist", "npm:4.23.0"],\
-          ["caniuse-lite", "npm:1.0.30001589"],\
-          ["electron-to-chromium", "npm:1.4.681"],\
+          ["caniuse-lite", "npm:1.0.30001593"],\
+          ["electron-to-chromium", "npm:1.4.690"],\
           ["node-releases", "npm:2.0.14"],\
           ["update-browserslist-db", "virtual:8126a959d46e6def6d7f2497c47970a23a94adac85f5be1df9be290c674503b9bcbe0dc057e2741ee222cc2a8a3b9f584b20c3a9eb5ce085704d99fc5d94514c#npm:1.0.13"]\
         ],\
@@ -2306,10 +2306,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["caniuse-lite", [\
-      ["npm:1.0.30001589", {\
-        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001589-1a81155fd5-10c0.zip/node_modules/caniuse-lite/",\
+      ["npm:1.0.30001593", {\
+        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001593-bb646b1090-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
-          ["caniuse-lite", "npm:1.0.30001589"]\
+          ["caniuse-lite", "npm:1.0.30001593"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2455,8 +2455,8 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/constantinople-npm-4.0.1-925d9c26ce-10c0.zip/node_modules/constantinople/",\
         "packageDependencies": [\
           ["constantinople", "npm:4.0.1"],\
-          ["@babel/parser", "npm:7.23.9"],\
-          ["@babel/types", "npm:7.23.9"]\
+          ["@babel/parser", "npm:7.24.0"],\
+          ["@babel/types", "npm:7.24.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2703,10 +2703,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["electron-to-chromium", [\
-      ["npm:1.4.681", {\
-        "packageLocation": "../../../../cache/others/berry/cache/electron-to-chromium-npm-1.4.681-dd0fc7593f-10c0.zip/node_modules/electron-to-chromium/",\
+      ["npm:1.4.690", {\
+        "packageLocation": "../../../../cache/others/berry/cache/electron-to-chromium-npm-1.4.690-0d92de6f50-10c0.zip/node_modules/electron-to-chromium/",\
         "packageDependencies": [\
-          ["electron-to-chromium", "npm:1.4.681"]\
+          ["electron-to-chromium", "npm:1.4.690"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5369,8 +5369,8 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/with-npm-7.0.2-135a242adb-10c0.zip/node_modules/with/",\
         "packageDependencies": [\
           ["with", "npm:7.0.2"],\
-          ["@babel/parser", "npm:7.23.9"],\
-          ["@babel/types", "npm:7.23.9"],\
+          ["@babel/parser", "npm:7.24.0"],\
+          ["@babel/types", "npm:7.24.0"],\
           ["assert-never", "npm:1.2.1"],\
           ["babel-walk", "npm:3.0.0-canary-5"]\
         ],\
