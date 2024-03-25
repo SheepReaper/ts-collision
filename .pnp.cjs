@@ -56,21 +56,21 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@babel/code-frame", [\
-      ["npm:7.23.5", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@babel-code-frame-npm-7.23.5-cb10d08de6-10c0.zip/node_modules/@babel/code-frame/",\
+      ["npm:7.24.2", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@babel-code-frame-npm-7.24.2-e104352cc7-10c0.zip/node_modules/@babel/code-frame/",\
         "packageDependencies": [\
-          ["@babel/code-frame", "npm:7.23.5"],\
-          ["@babel/highlight", "npm:7.23.4"],\
-          ["chalk", "npm:2.4.2"]\
+          ["@babel/code-frame", "npm:7.24.2"],\
+          ["@babel/highlight", "npm:7.24.2"],\
+          ["picocolors", "npm:1.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@babel/helper-string-parser", [\
-      ["npm:7.23.4", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@babel-helper-string-parser-npm-7.23.4-b1f0d030c3-10c0.zip/node_modules/@babel/helper-string-parser/",\
+      ["npm:7.24.1", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@babel-helper-string-parser-npm-7.24.1-0a40ece7f8-10c0.zip/node_modules/@babel/helper-string-parser/",\
         "packageDependencies": [\
-          ["@babel/helper-string-parser", "npm:7.23.4"]\
+          ["@babel/helper-string-parser", "npm:7.24.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -85,22 +85,23 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@babel/highlight", [\
-      ["npm:7.23.4", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@babel-highlight-npm-7.23.4-2a9f2d2538-10c0.zip/node_modules/@babel/highlight/",\
+      ["npm:7.24.2", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@babel-highlight-npm-7.24.2-d2e9453f0c-10c0.zip/node_modules/@babel/highlight/",\
         "packageDependencies": [\
-          ["@babel/highlight", "npm:7.23.4"],\
+          ["@babel/highlight", "npm:7.24.2"],\
           ["@babel/helper-validator-identifier", "npm:7.22.20"],\
           ["chalk", "npm:2.4.2"],\
-          ["js-tokens", "npm:4.0.0"]\
+          ["js-tokens", "npm:4.0.0"],\
+          ["picocolors", "npm:1.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@babel/parser", [\
-      ["npm:7.24.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@babel-parser-npm-7.24.0-0a438e924c-10c0.zip/node_modules/@babel/parser/",\
+      ["npm:7.24.1", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@babel-parser-npm-7.24.1-8b30631d26-10c0.zip/node_modules/@babel/parser/",\
         "packageDependencies": [\
-          ["@babel/parser", "npm:7.24.0"],\
+          ["@babel/parser", "npm:7.24.1"],\
           ["@babel/types", "npm:7.24.0"]\
         ],\
         "linkType": "HARD"\
@@ -111,7 +112,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/@babel-types-npm-7.24.0-a0508cb308-10c0.zip/node_modules/@babel/types/",\
         "packageDependencies": [\
           ["@babel/types", "npm:7.24.0"],\
-          ["@babel/helper-string-parser", "npm:7.23.4"],\
+          ["@babel/helper-string-parser", "npm:7.24.1"],\
           ["@babel/helper-validator-identifier", "npm:7.22.20"],\
           ["to-fast-properties", "npm:2.0.0"]\
         ],\
@@ -1180,7 +1181,7 @@ const RAW_RUNTIME_STATE =
           ["@parcel/source-map", "npm:2.1.1"],\
           ["@parcel/utils", "npm:2.12.0"],\
           ["@parcel/workers", "virtual:8f08b883d4cc438aa2ec719eb5cec278f9ea627197c55f35530bcaf9cd4e4738e04be8abe946bd2702b3f5c94b812f529f1b87c05c7d6de04e1ade9b3f3e00f6#npm:2.12.0"],\
-          ["@swc/helpers", "npm:0.5.6"],\
+          ["@swc/helpers", "npm:0.5.7"],\
           ["@types/parcel__core", null],\
           ["browserslist", "npm:4.23.0"],\
           ["nullthrows", "npm:1.1.1"],\
@@ -1570,7 +1571,7 @@ const RAW_RUNTIME_STATE =
           ["@swc/core-win32-x64-msvc", "npm:1.4.8"],\
           ["@swc/counter", "npm:0.1.3"],\
           ["@swc/helpers", null],\
-          ["@swc/types", "npm:0.1.5"],\
+          ["@swc/types", "npm:0.1.6"],\
           ["@types/swc__helpers", null]\
         ],\
         "packagePeers": [\
@@ -1680,20 +1681,21 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@swc/helpers", [\
-      ["npm:0.5.6", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@swc-helpers-npm-0.5.6-301034a39d-10c0.zip/node_modules/@swc/helpers/",\
+      ["npm:0.5.7", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@swc-helpers-npm-0.5.7-486229c884-10c0.zip/node_modules/@swc/helpers/",\
         "packageDependencies": [\
-          ["@swc/helpers", "npm:0.5.6"],\
+          ["@swc/helpers", "npm:0.5.7"],\
           ["tslib", "npm:2.6.2"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@swc/types", [\
-      ["npm:0.1.5", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@swc-types-npm-0.1.5-97cff73f52-10c0.zip/node_modules/@swc/types/",\
+      ["npm:0.1.6", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@swc-types-npm-0.1.6-be60dca6da-10c0.zip/node_modules/@swc/types/",\
         "packageDependencies": [\
-          ["@swc/types", "npm:0.1.5"]\
+          ["@swc/types", "npm:0.1.6"],\
+          ["@swc/counter", "npm:0.1.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2253,8 +2255,8 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/browserslist-npm-4.23.0-8126a959d4-10c0.zip/node_modules/browserslist/",\
         "packageDependencies": [\
           ["browserslist", "npm:4.23.0"],\
-          ["caniuse-lite", "npm:1.0.30001599"],\
-          ["electron-to-chromium", "npm:1.4.708"],\
+          ["caniuse-lite", "npm:1.0.30001600"],\
+          ["electron-to-chromium", "npm:1.4.715"],\
           ["node-releases", "npm:2.0.14"],\
           ["update-browserslist-db", "virtual:8126a959d46e6def6d7f2497c47970a23a94adac85f5be1df9be290c674503b9bcbe0dc057e2741ee222cc2a8a3b9f584b20c3a9eb5ce085704d99fc5d94514c#npm:1.0.13"]\
         ],\
@@ -2276,7 +2278,7 @@ const RAW_RUNTIME_STATE =
           ["minipass-pipeline", "npm:1.2.4"],\
           ["p-map", "npm:4.0.0"],\
           ["ssri", "npm:10.0.5"],\
-          ["tar", "npm:6.2.0"],\
+          ["tar", "npm:6.2.1"],\
           ["unique-filename", "npm:3.0.0"]\
         ],\
         "linkType": "HARD"\
@@ -2306,10 +2308,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["caniuse-lite", [\
-      ["npm:1.0.30001599", {\
-        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001599-834cd4cb82-10c0.zip/node_modules/caniuse-lite/",\
+      ["npm:1.0.30001600", {\
+        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001600-89d888d155-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
-          ["caniuse-lite", "npm:1.0.30001599"]\
+          ["caniuse-lite", "npm:1.0.30001600"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2455,7 +2457,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/constantinople-npm-4.0.1-925d9c26ce-10c0.zip/node_modules/constantinople/",\
         "packageDependencies": [\
           ["constantinople", "npm:4.0.1"],\
-          ["@babel/parser", "npm:7.24.0"],\
+          ["@babel/parser", "npm:7.24.1"],\
           ["@babel/types", "npm:7.24.0"]\
         ],\
         "linkType": "HARD"\
@@ -2595,10 +2597,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:2.0.2", {\
-        "packageLocation": "../../../../cache/others/berry/cache/detect-libc-npm-2.0.2-03afa59137-10c0.zip/node_modules/detect-libc/",\
+      ["npm:2.0.3", {\
+        "packageLocation": "../../../../cache/others/berry/cache/detect-libc-npm-2.0.3-2ddae34945-10c0.zip/node_modules/detect-libc/",\
         "packageDependencies": [\
-          ["detect-libc", "npm:2.0.2"]\
+          ["detect-libc", "npm:2.0.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2703,10 +2705,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["electron-to-chromium", [\
-      ["npm:1.4.708", {\
-        "packageLocation": "../../../../cache/others/berry/cache/electron-to-chromium-npm-1.4.708-f7872c8910-10c0.zip/node_modules/electron-to-chromium/",\
+      ["npm:1.4.715", {\
+        "packageLocation": "../../../../cache/others/berry/cache/electron-to-chromium-npm-1.4.715-bba842aa86-10c0.zip/node_modules/electron-to-chromium/",\
         "packageDependencies": [\
-          ["electron-to-chromium", "npm:1.4.708"]\
+          ["electron-to-chromium", "npm:1.4.715"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -4183,7 +4185,7 @@ const RAW_RUNTIME_STATE =
           ["nopt", "npm:7.2.0"],\
           ["proc-log", "npm:3.0.0"],\
           ["semver", "npm:7.6.0"],\
-          ["tar", "npm:6.2.0"],\
+          ["tar", "npm:6.2.1"],\
           ["which", "npm:4.0.0"]\
         ],\
         "linkType": "HARD"\
@@ -4201,7 +4203,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/node-gyp-build-optional-packages-npm-5.1.1-ff11e179dd-10c0.zip/node_modules/node-gyp-build-optional-packages/",\
         "packageDependencies": [\
           ["node-gyp-build-optional-packages", "npm:5.1.1"],\
-          ["detect-libc", "npm:2.0.2"]\
+          ["detect-libc", "npm:2.0.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -4384,7 +4386,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/parse-json-npm-5.2.0-00a63b1199-10c0.zip/node_modules/parse-json/",\
         "packageDependencies": [\
           ["parse-json", "npm:5.2.0"],\
-          ["@babel/code-frame", "npm:7.23.5"],\
+          ["@babel/code-frame", "npm:7.24.2"],\
           ["error-ex", "npm:1.3.2"],\
           ["json-parse-even-better-errors", "npm:2.3.1"],\
           ["lines-and-columns", "npm:1.2.4"]\
@@ -4843,7 +4845,7 @@ const RAW_RUNTIME_STATE =
           ["sass", "npm:1.72.0"],\
           ["chokidar", "npm:3.6.0"],\
           ["immutable", "npm:4.3.5"],\
-          ["source-map-js", "npm:1.1.0"]\
+          ["source-map-js", "npm:1.2.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -4952,10 +4954,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["source-map-js", [\
-      ["npm:1.1.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/source-map-js-npm-1.1.0-f0dc61cfce-10c0.zip/node_modules/source-map-js/",\
+      ["npm:1.2.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/source-map-js-npm-1.2.0-6e63f357e5-10c0.zip/node_modules/source-map-js/",\
         "packageDependencies": [\
-          ["source-map-js", "npm:1.1.0"]\
+          ["source-map-js", "npm:1.2.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5090,10 +5092,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["tar", [\
-      ["npm:6.2.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/tar-npm-6.2.0-3eb25205a7-10c0.zip/node_modules/tar/",\
+      ["npm:6.2.1", {\
+        "packageLocation": "../../../../cache/others/berry/cache/tar-npm-6.2.1-237800bb20-10c0.zip/node_modules/tar/",\
         "packageDependencies": [\
-          ["tar", "npm:6.2.0"],\
+          ["tar", "npm:6.2.1"],\
           ["chownr", "npm:2.0.0"],\
           ["fs-minipass", "npm:2.1.0"],\
           ["minipass", "npm:5.0.0"],\
@@ -5369,7 +5371,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/with-npm-7.0.2-135a242adb-10c0.zip/node_modules/with/",\
         "packageDependencies": [\
           ["with", "npm:7.0.2"],\
-          ["@babel/parser", "npm:7.24.0"],\
+          ["@babel/parser", "npm:7.24.1"],\
           ["@babel/types", "npm:7.24.0"],\
           ["assert-never", "npm:1.2.1"],\
           ["babel-walk", "npm:3.0.0-canary-5"]\
