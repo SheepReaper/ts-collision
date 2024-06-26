@@ -33,7 +33,7 @@ const RAW_RUNTIME_STATE =
           ["@types/eslint", "npm:8.56.10"],\
           ["@types/p5", "npm:1.7.6"],\
           ["@types/prettier", "npm:3.0.0"],\
-          ["@types/uuid", "npm:9.0.8"],\
+          ["@types/uuid", "npm:10.0.0"],\
           ["@typescript-eslint/eslint-plugin", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:7.14.1"],\
           ["@typescript-eslint/parser", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:7.14.1"],\
           ["eslint", "npm:8.57.0"],\
@@ -42,7 +42,7 @@ const RAW_RUNTIME_STATE =
           ["parcel", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:2.12.0"],\
           ["prettier", "npm:3.3.2"],\
           ["typescript", "patch:typescript@npm%3A5.5.2#optional!builtin<compat/typescript>::version=5.5.2&hash=379a07"],\
-          ["uuid", "npm:9.0.1"]\
+          ["uuid", "npm:10.0.0"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -1750,10 +1750,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/uuid", [\
-      ["npm:9.0.8", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-uuid-npm-9.0.8-3eeeaa5abb-10c0.zip/node_modules/@types/uuid/",\
+      ["npm:10.0.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-uuid-npm-10.0.0-9ac1066765-10c0.zip/node_modules/@types/uuid/",\
         "packageDependencies": [\
-          ["@types/uuid", "npm:9.0.8"]\
+          ["@types/uuid", "npm:10.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5196,7 +5196,7 @@ const RAW_RUNTIME_STATE =
           ["@types/eslint", "npm:8.56.10"],\
           ["@types/p5", "npm:1.7.6"],\
           ["@types/prettier", "npm:3.0.0"],\
-          ["@types/uuid", "npm:9.0.8"],\
+          ["@types/uuid", "npm:10.0.0"],\
           ["@typescript-eslint/eslint-plugin", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:7.14.1"],\
           ["@typescript-eslint/parser", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:7.14.1"],\
           ["eslint", "npm:8.57.0"],\
@@ -5205,7 +5205,7 @@ const RAW_RUNTIME_STATE =
           ["parcel", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:2.12.0"],\
           ["prettier", "npm:3.3.2"],\
           ["typescript", "patch:typescript@npm%3A5.5.2#optional!builtin<compat/typescript>::version=5.5.2&hash=379a07"],\
-          ["uuid", "npm:9.0.1"]\
+          ["uuid", "npm:10.0.0"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -5311,10 +5311,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["uuid", [\
-      ["npm:9.0.1", {\
-        "packageLocation": "../../../../cache/others/berry/cache/uuid-npm-9.0.1-39a8442bc6-10c0.zip/node_modules/uuid/",\
+      ["npm:10.0.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/uuid-npm-10.0.0-4872b46ff8-10c0.zip/node_modules/uuid/",\
         "packageDependencies": [\
-          ["uuid", "npm:9.0.1"]\
+          ["uuid", "npm:10.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
