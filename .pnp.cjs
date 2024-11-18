@@ -558,7 +558,7 @@ const RAW_RUNTIME_STATE =
           ["browserslist", "npm:4.24.2"],\
           ["clone", "npm:2.1.2"],\
           ["dotenv", "npm:16.4.5"],\
-          ["dotenv-expand", "npm:11.0.6"],\
+          ["dotenv-expand", "npm:11.0.7"],\
           ["json5", "npm:2.2.3"],\
           ["msgpackr", "npm:1.11.2"],\
           ["nullthrows", "npm:1.1.1"],\
@@ -1134,7 +1134,7 @@ const RAW_RUNTIME_STATE =
           ["@parcel/source-map", "npm:2.1.1"],\
           ["@parcel/utils", "npm:2.13.0"],\
           ["@parcel/workers", "virtual:38b0aac85c89875b3c2172572c9c6b7f9c7756a342833520288706a88c65be05466d7fe8f469de7dfe33ef62f5f9016c35ef8b6b230cddbf4ff56a931a3bb9d1#npm:2.13.0"],\
-          ["@swc/helpers", "npm:0.5.13"],\
+          ["@swc/helpers", "npm:0.5.15"],\
           ["@types/parcel__core", null],\
           ["browserslist", "npm:4.24.2"],\
           ["nullthrows", "npm:1.1.1"],\
@@ -1232,7 +1232,7 @@ const RAW_RUNTIME_STATE =
           ["@parcel/transformer-sass", "npm:2.13.0"],\
           ["@parcel/plugin", "npm:2.13.0"],\
           ["@parcel/source-map", "npm:2.1.1"],\
-          ["sass", "npm:1.80.6"]\
+          ["sass", "npm:1.81.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -1652,10 +1652,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@swc/helpers", [\
-      ["npm:0.5.13", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@swc-helpers-npm-0.5.13-763e72c536-10c0.zip/node_modules/@swc/helpers/",\
+      ["npm:0.5.15", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@swc-helpers-npm-0.5.15-a7a06a73bc-10c0.zip/node_modules/@swc/helpers/",\
         "packageDependencies": [\
-          ["@swc/helpers", "npm:0.5.13"],\
+          ["@swc/helpers", "npm:0.5.15"],\
           ["tslib", "npm:2.8.1"]\
         ],\
         "linkType": "HARD"\
@@ -2159,7 +2159,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["browserslist", "npm:4.24.2"],\
           ["caniuse-lite", "npm:1.0.30001680"],\
-          ["electron-to-chromium", "npm:1.5.55"],\
+          ["electron-to-chromium", "npm:1.5.62"],\
           ["node-releases", "npm:2.0.18"],\
           ["update-browserslist-db", "virtual:0bc5f13e3b070c660ccf3396ff30b6fc44ede2343c6543d593ce4624807ab1bafdbcd764ac20b4d55e6854e63e2568f1c6d09371eb639766b95e2d401b5b05cb#npm:1.1.1"]\
         ],\
@@ -2542,10 +2542,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["dotenv-expand", [\
-      ["npm:11.0.6", {\
-        "packageLocation": "../../../../cache/others/berry/cache/dotenv-expand-npm-11.0.6-bb141097d1-10c0.zip/node_modules/dotenv-expand/",\
+      ["npm:11.0.7", {\
+        "packageLocation": "../../../../cache/others/berry/cache/dotenv-expand-npm-11.0.7-3d83888ae0-10c0.zip/node_modules/dotenv-expand/",\
         "packageDependencies": [\
-          ["dotenv-expand", "npm:11.0.6"],\
+          ["dotenv-expand", "npm:11.0.7"],\
           ["dotenv", "npm:16.4.5"]\
         ],\
         "linkType": "HARD"\
@@ -2561,10 +2561,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["electron-to-chromium", [\
-      ["npm:1.5.55", {\
-        "packageLocation": "../../../../cache/others/berry/cache/electron-to-chromium-npm-1.5.55-42f2de4e9f-10c0.zip/node_modules/electron-to-chromium/",\
+      ["npm:1.5.62", {\
+        "packageLocation": "../../../../cache/others/berry/cache/electron-to-chromium-npm-1.5.62-f1f12e4838-10c0.zip/node_modules/electron-to-chromium/",\
         "packageDependencies": [\
-          ["electron-to-chromium", "npm:1.5.55"]\
+          ["electron-to-chromium", "npm:1.5.62"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3288,10 +3288,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["immutable", [\
-      ["npm:4.3.7", {\
-        "packageLocation": "../../../../cache/others/berry/cache/immutable-npm-4.3.7-a76ac3621b-10c0.zip/node_modules/immutable/",\
+      ["npm:5.0.2", {\
+        "packageLocation": "../../../../cache/others/berry/cache/immutable-npm-5.0.2-d7d3c3ff6b-10c0.zip/node_modules/immutable/",\
         "packageDependencies": [\
-          ["immutable", "npm:4.3.7"]\
+          ["immutable", "npm:5.0.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -4665,13 +4665,13 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["sass", [\
-      ["npm:1.80.6", {\
-        "packageLocation": "../../../../cache/others/berry/cache/sass-npm-1.80.6-30d57f2c14-10c0.zip/node_modules/sass/",\
+      ["npm:1.81.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/sass-npm-1.81.0-42587b1ed8-10c0.zip/node_modules/sass/",\
         "packageDependencies": [\
-          ["sass", "npm:1.80.6"],\
+          ["sass", "npm:1.81.0"],\
           ["@parcel/watcher", "npm:2.5.0"],\
           ["chokidar", "npm:4.0.1"],\
-          ["immutable", "npm:4.3.7"],\
+          ["immutable", "npm:5.0.2"],\
           ["source-map-js", "npm:1.2.1"]\
         ],\
         "linkType": "HARD"\
