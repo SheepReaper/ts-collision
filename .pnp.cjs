@@ -42,7 +42,7 @@ const RAW_RUNTIME_STATE =
           ["parcel", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:2.13.2"],\
           ["prettier", "npm:3.4.2"],\
           ["typescript", "patch:typescript@npm%3A5.7.2#optional!builtin<compat/typescript>::version=5.7.2&hash=5786d5"],\
-          ["uuid", "npm:9.0.1"]\
+          ["uuid", "npm:11.0.3"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -4969,7 +4969,7 @@ const RAW_RUNTIME_STATE =
           ["parcel", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:2.13.2"],\
           ["prettier", "npm:3.4.2"],\
           ["typescript", "patch:typescript@npm%3A5.7.2#optional!builtin<compat/typescript>::version=5.7.2&hash=5786d5"],\
-          ["uuid", "npm:9.0.1"]\
+          ["uuid", "npm:11.0.3"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -5075,10 +5075,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["uuid", [\
-      ["npm:9.0.1", {\
-        "packageLocation": "../../../../cache/others/berry/cache/uuid-npm-9.0.1-39a8442bc6-10c0.zip/node_modules/uuid/",\
+      ["npm:11.0.3", {\
+        "packageLocation": "../../../../cache/others/berry/cache/uuid-npm-11.0.3-abcb5b16c0-10c0.zip/node_modules/uuid/",\
         "packageDependencies": [\
-          ["uuid", "npm:9.0.1"]\
+          ["uuid", "npm:11.0.3"]\
         ],\
         "linkType": "HARD"\
       }]\
