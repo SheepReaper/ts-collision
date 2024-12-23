@@ -2085,10 +2085,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["assert-never", [\
-      ["npm:1.3.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/assert-never-npm-1.3.0-d6cea10ce9-10c0.zip/node_modules/assert-never/",\
+      ["npm:1.4.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/assert-never-npm-1.4.0-410769002f-10c0.zip/node_modules/assert-never/",\
         "packageDependencies": [\
-          ["assert-never", "npm:1.3.0"]\
+          ["assert-never", "npm:1.4.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2156,8 +2156,8 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/browserslist-npm-4.24.3-1f4e7bedfb-10c0.zip/node_modules/browserslist/",\
         "packageDependencies": [\
           ["browserslist", "npm:4.24.3"],\
-          ["caniuse-lite", "npm:1.0.30001688"],\
-          ["electron-to-chromium", "npm:1.5.73"],\
+          ["caniuse-lite", "npm:1.0.30001690"],\
+          ["electron-to-chromium", "npm:1.5.75"],\
           ["node-releases", "npm:2.0.19"],\
           ["update-browserslist-db", "virtual:1f4e7bedfbc1da62b08a4dff0b1939e165c1ac8621825a199f80044f745d21b1197aa9e3f40b945971ed6970a3219a5c2658011edc0375ed6177bae1c352c57a#npm:1.1.1"]\
         ],\
@@ -2185,19 +2185,6 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
-    ["call-bind", [\
-      ["npm:1.0.8", {\
-        "packageLocation": "../../../../cache/others/berry/cache/call-bind-npm-1.0.8-4145a20621-10c0.zip/node_modules/call-bind/",\
-        "packageDependencies": [\
-          ["call-bind", "npm:1.0.8"],\
-          ["call-bind-apply-helpers", "npm:1.0.1"],\
-          ["es-define-property", "npm:1.0.1"],\
-          ["get-intrinsic", "npm:1.2.6"],\
-          ["set-function-length", "npm:1.2.2"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
     ["call-bind-apply-helpers", [\
       ["npm:1.0.1", {\
         "packageLocation": "../../../../cache/others/berry/cache/call-bind-apply-helpers-npm-1.0.1-cda777c96d-10c0.zip/node_modules/call-bind-apply-helpers/",\
@@ -2210,11 +2197,11 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["call-bound", [\
-      ["npm:1.0.2", {\
-        "packageLocation": "../../../../cache/others/berry/cache/call-bound-npm-1.0.2-16308f8cb6-10c0.zip/node_modules/call-bound/",\
+      ["npm:1.0.3", {\
+        "packageLocation": "../../../../cache/others/berry/cache/call-bound-npm-1.0.3-f4cbf26326-10c0.zip/node_modules/call-bound/",\
         "packageDependencies": [\
-          ["call-bound", "npm:1.0.2"],\
-          ["call-bind", "npm:1.0.8"],\
+          ["call-bound", "npm:1.0.3"],\
+          ["call-bind-apply-helpers", "npm:1.0.1"],\
           ["get-intrinsic", "npm:1.2.6"]\
         ],\
         "linkType": "HARD"\
@@ -2230,10 +2217,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["caniuse-lite", [\
-      ["npm:1.0.30001688", {\
-        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001688-dbd0cdc8cd-10c0.zip/node_modules/caniuse-lite/",\
+      ["npm:1.0.30001690", {\
+        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001690-d600e5893e-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
-          ["caniuse-lite", "npm:1.0.30001688"]\
+          ["caniuse-lite", "npm:1.0.30001690"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2260,10 +2247,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["chokidar", [\
-      ["npm:4.0.1", {\
-        "packageLocation": "../../../../cache/others/berry/cache/chokidar-npm-4.0.1-989df9ae3c-10c0.zip/node_modules/chokidar/",\
+      ["npm:4.0.3", {\
+        "packageLocation": "../../../../cache/others/berry/cache/chokidar-npm-4.0.3-962354fbb4-10c0.zip/node_modules/chokidar/",\
         "packageDependencies": [\
-          ["chokidar", "npm:4.0.1"],\
+          ["chokidar", "npm:4.0.3"],\
           ["readdirp", "npm:4.0.2"]\
         ],\
         "linkType": "HARD"\
@@ -2414,18 +2401,6 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
-    ["define-data-property", [\
-      ["npm:1.1.4", {\
-        "packageLocation": "../../../../cache/others/berry/cache/define-data-property-npm-1.1.4-4cbd8efc51-10c0.zip/node_modules/define-data-property/",\
-        "packageDependencies": [\
-          ["define-data-property", "npm:1.1.4"],\
-          ["es-define-property", "npm:1.0.1"],\
-          ["es-errors", "npm:1.3.0"],\
-          ["gopd", "npm:1.2.0"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
     ["detect-libc", [\
       ["npm:1.0.3", {\
         "packageLocation": "../../../../cache/others/berry/cache/detect-libc-npm-1.0.3-c30ac344d4-10c0.zip/node_modules/detect-libc/",\
@@ -2562,10 +2537,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["dunder-proto", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/dunder-proto-npm-1.0.0-a83e095e6b-10c0.zip/node_modules/dunder-proto/",\
+      ["npm:1.0.1", {\
+        "packageLocation": "../../../../cache/others/berry/cache/dunder-proto-npm-1.0.1-90eb6829db-10c0.zip/node_modules/dunder-proto/",\
         "packageDependencies": [\
-          ["dunder-proto", "npm:1.0.0"],\
+          ["dunder-proto", "npm:1.0.1"],\
           ["call-bind-apply-helpers", "npm:1.0.1"],\
           ["es-errors", "npm:1.3.0"],\
           ["gopd", "npm:1.2.0"]\
@@ -2583,10 +2558,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["electron-to-chromium", [\
-      ["npm:1.5.73", {\
-        "packageLocation": "../../../../cache/others/berry/cache/electron-to-chromium-npm-1.5.73-1193cdfee8-10c0.zip/node_modules/electron-to-chromium/",\
+      ["npm:1.5.75", {\
+        "packageLocation": "../../../../cache/others/berry/cache/electron-to-chromium-npm-1.5.75-45443b6ed0-10c0.zip/node_modules/electron-to-chromium/",\
         "packageDependencies": [\
-          ["electron-to-chromium", "npm:1.5.73"]\
+          ["electron-to-chromium", "npm:1.5.75"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3010,7 +2985,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["get-intrinsic", "npm:1.2.6"],\
           ["call-bind-apply-helpers", "npm:1.0.1"],\
-          ["dunder-proto", "npm:1.0.0"],\
+          ["dunder-proto", "npm:1.0.1"],\
           ["es-define-property", "npm:1.0.1"],\
           ["es-errors", "npm:1.3.0"],\
           ["es-object-atoms", "npm:1.0.0"],\
@@ -3018,7 +2993,7 @@ const RAW_RUNTIME_STATE =
           ["gopd", "npm:1.2.0"],\
           ["has-symbols", "npm:1.1.0"],\
           ["hasown", "npm:2.0.2"],\
-          ["math-intrinsics", "npm:1.0.0"]\
+          ["math-intrinsics", "npm:1.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3135,16 +3110,6 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/has-flag-npm-4.0.0-32af9f0536-10c0.zip/node_modules/has-flag/",\
         "packageDependencies": [\
           ["has-flag", "npm:4.0.0"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["has-property-descriptors", [\
-      ["npm:1.0.2", {\
-        "packageLocation": "../../../../cache/others/berry/cache/has-property-descriptors-npm-1.0.2-d7077d09f1-10c0.zip/node_modules/has-property-descriptors/",\
-        "packageDependencies": [\
-          ["has-property-descriptors", "npm:1.0.2"],\
-          ["es-define-property", "npm:1.0.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3375,10 +3340,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["is-core-module", [\
-      ["npm:2.16.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/is-core-module-npm-2.16.0-01e0df3b41-10c0.zip/node_modules/is-core-module/",\
+      ["npm:2.16.1", {\
+        "packageLocation": "../../../../cache/others/berry/cache/is-core-module-npm-2.16.1-a54837229e-10c0.zip/node_modules/is-core-module/",\
         "packageDependencies": [\
-          ["is-core-module", "npm:2.16.0"],\
+          ["is-core-module", "npm:2.16.1"],\
           ["hasown", "npm:2.0.2"]\
         ],\
         "linkType": "HARD"\
@@ -3464,7 +3429,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/is-regex-npm-1.2.1-70a484f2c8-10c0.zip/node_modules/is-regex/",\
         "packageDependencies": [\
           ["is-regex", "npm:1.2.1"],\
-          ["call-bound", "npm:1.0.2"],\
+          ["call-bound", "npm:1.0.3"],\
           ["gopd", "npm:1.2.0"],\
           ["has-tostringtag", "npm:1.0.2"],\
           ["hasown", "npm:2.0.2"]\
@@ -3802,10 +3767,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["math-intrinsics", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/math-intrinsics-npm-1.0.0-926a969ef2-10c0.zip/node_modules/math-intrinsics/",\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/math-intrinsics-npm-1.1.0-9204d80e7d-10c0.zip/node_modules/math-intrinsics/",\
         "packageDependencies": [\
-          ["math-intrinsics", "npm:1.0.0"]\
+          ["math-intrinsics", "npm:1.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -4457,7 +4422,7 @@ const RAW_RUNTIME_STATE =
           ["jstransformer", "npm:1.0.0"],\
           ["pug-error", "npm:2.1.0"],\
           ["pug-walk", "npm:2.0.0"],\
-          ["resolve", "patch:resolve@npm%3A1.22.9#optional!builtin<compat/resolve>::version=1.22.9&hash=c3c19d"]\
+          ["resolve", "patch:resolve@npm%3A1.22.10#optional!builtin<compat/resolve>::version=1.22.10&hash=c3c19d"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -4590,11 +4555,11 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["resolve", [\
-      ["patch:resolve@npm%3A1.22.9#optional!builtin<compat/resolve>::version=1.22.9&hash=c3c19d", {\
-        "packageLocation": "../../../../cache/others/berry/cache/resolve-patch-3a52911b36-10c0.zip/node_modules/resolve/",\
+      ["patch:resolve@npm%3A1.22.10#optional!builtin<compat/resolve>::version=1.22.10&hash=c3c19d", {\
+        "packageLocation": "../../../../cache/others/berry/cache/resolve-patch-b5982cfa8c-10c0.zip/node_modules/resolve/",\
         "packageDependencies": [\
-          ["resolve", "patch:resolve@npm%3A1.22.9#optional!builtin<compat/resolve>::version=1.22.9&hash=c3c19d"],\
-          ["is-core-module", "npm:2.16.0"],\
+          ["resolve", "patch:resolve@npm%3A1.22.10#optional!builtin<compat/resolve>::version=1.22.10&hash=c3c19d"],\
+          ["is-core-module", "npm:2.16.1"],\
           ["path-parse", "npm:1.0.7"],\
           ["supports-preserve-symlinks-flag", "npm:1.0.0"]\
         ],\
@@ -4680,7 +4645,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["sass", "npm:1.83.0"],\
           ["@parcel/watcher", "npm:2.5.0"],\
-          ["chokidar", "npm:4.0.1"],\
+          ["chokidar", "npm:4.0.3"],\
           ["immutable", "npm:5.0.3"],\
           ["source-map-js", "npm:1.2.1"]\
         ],\
@@ -4692,21 +4657,6 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/semver-npm-7.6.3-57e82c14d5-10c0.zip/node_modules/semver/",\
         "packageDependencies": [\
           ["semver", "npm:7.6.3"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["set-function-length", [\
-      ["npm:1.2.2", {\
-        "packageLocation": "../../../../cache/others/berry/cache/set-function-length-npm-1.2.2-243073748b-10c0.zip/node_modules/set-function-length/",\
-        "packageDependencies": [\
-          ["set-function-length", "npm:1.2.2"],\
-          ["define-data-property", "npm:1.1.4"],\
-          ["es-errors", "npm:1.3.0"],\
-          ["function-bind", "npm:1.1.2"],\
-          ["get-intrinsic", "npm:1.2.6"],\
-          ["gopd", "npm:1.2.0"],\
-          ["has-property-descriptors", "npm:1.0.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5158,7 +5108,7 @@ const RAW_RUNTIME_STATE =
           ["with", "npm:7.0.2"],\
           ["@babel/parser", "npm:7.26.3"],\
           ["@babel/types", "npm:7.26.3"],\
-          ["assert-never", "npm:1.3.0"],\
+          ["assert-never", "npm:1.4.0"],\
           ["babel-walk", "npm:3.0.0-canary-5"]\
         ],\
         "linkType": "HARD"\
