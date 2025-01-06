@@ -1242,7 +1242,7 @@ const RAW_RUNTIME_STATE =
           ["@parcel/transformer-sass", "npm:2.13.3"],\
           ["@parcel/plugin", "npm:2.13.3"],\
           ["@parcel/source-map", "npm:2.1.1"],\
-          ["sass", "npm:1.83.0"]\
+          ["sass", "npm:1.83.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2202,7 +2202,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["call-bound", "npm:1.0.3"],\
           ["call-bind-apply-helpers", "npm:1.0.1"],\
-          ["get-intrinsic", "npm:1.2.6"]\
+          ["get-intrinsic", "npm:1.2.7"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2847,10 +2847,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["fast-glob", [\
-      ["npm:3.3.2", {\
-        "packageLocation": "../../../../cache/others/berry/cache/fast-glob-npm-3.3.2-0a8cb4f2ca-10c0.zip/node_modules/fast-glob/",\
+      ["npm:3.3.3", {\
+        "packageLocation": "../../../../cache/others/berry/cache/fast-glob-npm-3.3.3-2a653be532-10c0.zip/node_modules/fast-glob/",\
         "packageDependencies": [\
-          ["fast-glob", "npm:3.3.2"],\
+          ["fast-glob", "npm:3.3.3"],\
           ["@nodelib/fs.stat", "npm:2.0.5"],\
           ["@nodelib/fs.walk", "npm:1.2.8"],\
           ["glob-parent", "npm:5.1.2"],\
@@ -2980,16 +2980,16 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["get-intrinsic", [\
-      ["npm:1.2.6", {\
-        "packageLocation": "../../../../cache/others/berry/cache/get-intrinsic-npm-1.2.6-e4c30ebc37-10c0.zip/node_modules/get-intrinsic/",\
+      ["npm:1.2.7", {\
+        "packageLocation": "../../../../cache/others/berry/cache/get-intrinsic-npm-1.2.7-2e0e0e7564-10c0.zip/node_modules/get-intrinsic/",\
         "packageDependencies": [\
-          ["get-intrinsic", "npm:1.2.6"],\
+          ["get-intrinsic", "npm:1.2.7"],\
           ["call-bind-apply-helpers", "npm:1.0.1"],\
-          ["dunder-proto", "npm:1.0.1"],\
           ["es-define-property", "npm:1.0.1"],\
           ["es-errors", "npm:1.3.0"],\
           ["es-object-atoms", "npm:1.0.0"],\
           ["function-bind", "npm:1.1.2"],\
+          ["get-proto", "npm:1.0.1"],\
           ["gopd", "npm:1.2.0"],\
           ["has-symbols", "npm:1.1.0"],\
           ["hasown", "npm:2.0.2"],\
@@ -3003,6 +3003,17 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/get-port-npm-4.2.0-07a1c5d34e-10c0.zip/node_modules/get-port/",\
         "packageDependencies": [\
           ["get-port", "npm:4.2.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["get-proto", [\
+      ["npm:1.0.1", {\
+        "packageLocation": "../../../../cache/others/berry/cache/get-proto-npm-1.0.1-4d30bac614-10c0.zip/node_modules/get-proto/",\
+        "packageDependencies": [\
+          ["get-proto", "npm:1.0.1"],\
+          ["dunder-proto", "npm:1.0.1"],\
+          ["es-object-atoms", "npm:1.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3070,7 +3081,7 @@ const RAW_RUNTIME_STATE =
           ["globby", "npm:11.1.0"],\
           ["array-union", "npm:2.1.0"],\
           ["dir-glob", "npm:3.0.1"],\
-          ["fast-glob", "npm:3.3.2"],\
+          ["fast-glob", "npm:3.3.3"],\
           ["ignore", "npm:5.3.2"],\
           ["merge2", "npm:1.4.1"],\
           ["slash", "npm:3.0.0"]\
@@ -4640,10 +4651,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["sass", [\
-      ["npm:1.83.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/sass-npm-1.83.0-cc600b60b7-10c0.zip/node_modules/sass/",\
+      ["npm:1.83.1", {\
+        "packageLocation": "../../../../cache/others/berry/cache/sass-npm-1.83.1-543e7bb3e0-10c0.zip/node_modules/sass/",\
         "packageDependencies": [\
-          ["sass", "npm:1.83.0"],\
+          ["sass", "npm:1.83.1"],\
           ["@parcel/watcher", "npm:2.5.0"],\
           ["chokidar", "npm:4.0.3"],\
           ["immutable", "npm:5.0.3"],\
