@@ -24,6 +24,6 @@
     "parcel": "2.13.3",
     "prettier": "3.5.3",
     "typescript": "5.8.2",
-    "uuid": "9.0.1"
+    "uuid": "11.1.0"
   }
 }
