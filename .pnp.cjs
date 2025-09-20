@@ -38,7 +38,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/eslint-plugin", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:7.18.0"],\
           ["@typescript-eslint/parser", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:7.18.0"],\
           ["eslint", "npm:8.57.1"],\
-          ["eslint-config-prettier", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:9.1.2"],\
+          ["eslint-config-prettier", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:10.1.8"],\
           ["p5", "npm:1.11.10"],\
           ["parcel", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:2.16.0"],\
           ["prettier", "npm:3.6.2"],\
@@ -2703,19 +2703,19 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["eslint-config-prettier", [\
-      ["npm:9.1.2", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/eslint-config-prettier-npm-9.1.2-b8992b2c8c-10c0.zip/node_modules/eslint-config-prettier/",\
+      ["npm:10.1.8", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/eslint-config-prettier-npm-10.1.8-c1c834370f-10c0.zip/node_modules/eslint-config-prettier/",\
         "packageDependencies": [\
-          ["eslint-config-prettier", "npm:9.1.2"]\
+          ["eslint-config-prettier", "npm:10.1.8"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:9.1.2", {\
-        "packageLocation": "./.yarn/__virtual__/eslint-config-prettier-virtual-a411d18482/7/runner/cache/others/berry/cache/eslint-config-prettier-npm-9.1.2-b8992b2c8c-10c0.zip/node_modules/eslint-config-prettier/",\
+      ["virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:10.1.8", {\
+        "packageLocation": "./.yarn/__virtual__/eslint-config-prettier-virtual-b8e9e8f1ad/7/runner/cache/others/berry/cache/eslint-config-prettier-npm-10.1.8-c1c834370f-10c0.zip/node_modules/eslint-config-prettier/",\
         "packageDependencies": [\
           ["@types/eslint", "npm:8.56.12"],\
           ["eslint", "npm:8.57.1"],\
-          ["eslint-config-prettier", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:9.1.2"]\
+          ["eslint-config-prettier", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:10.1.8"]\
         ],\
         "packagePeers": [\
           "@types/eslint",\
@@ -4732,7 +4732,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/eslint-plugin", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:7.18.0"],\
           ["@typescript-eslint/parser", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:7.18.0"],\
           ["eslint", "npm:8.57.1"],\
-          ["eslint-config-prettier", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:9.1.2"],\
+          ["eslint-config-prettier", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:10.1.8"],\
           ["p5", "npm:1.11.10"],\
           ["parcel", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:2.16.0"],\
           ["prettier", "npm:3.6.2"],\
@@ -10277,7 +10277,8 @@ class ZipFS extends BasePortableFakeFS {
         const entries = Array.from(directoryListing, (name) => {
           return Object.assign(this.statImpl(`lstat`, ppath.join(p, name)), {
             name,
-            path: PortablePath.dot
+            path: PortablePath.dot,
+            parentPath: PortablePath.dot
           });
         });
         for (const entry of entries) {
@@ -10288,7 +10289,8 @@ class ZipFS extends BasePortableFakeFS {
           for (const child of subListing) {
             entries.push(Object.assign(this.statImpl(`lstat`, ppath.join(p, subPath, child)), {
               name: child,
-              path: subPath
+              path: subPath,
+              parentPath: subPath
             }));
           }
         }
@@ -10309,7 +10311,8 @@ class ZipFS extends BasePortableFakeFS {
       return Array.from(directoryListing, (name) => {
         return Object.assign(this.statImpl(`lstat`, ppath.join(p, name)), {
           name,
-          path: void 0
+          path: void 0,
+          parentPath: void 0
         });
       });
     } else {
