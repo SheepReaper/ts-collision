@@ -226,10 +226,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@lezer/common", [\
-      ["npm:1.2.3", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@lezer-common-npm-1.2.3-ee9d05545d-10c0.zip/node_modules/@lezer/common/",\
+      ["npm:1.3.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@lezer-common-npm-1.3.0-1bb07f4abb-10c0.zip/node_modules/@lezer/common/",\
         "packageDependencies": [\
-          ["@lezer/common", "npm:1.2.3"]\
+          ["@lezer/common", "npm:1.3.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -238,7 +238,7 @@ const RAW_RUNTIME_STATE =
       ["npm:1.4.2", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/@lezer-lr-npm-1.4.2-3bce75dd47-10c0.zip/node_modules/@lezer/lr/",\
         "packageDependencies": [\
-          ["@lezer/common", "npm:1.2.3"],\
+          ["@lezer/common", "npm:1.3.0"],\
           ["@lezer/lr", "npm:1.4.2"]\
         ],\
         "linkType": "HARD"\
@@ -302,7 +302,7 @@ const RAW_RUNTIME_STATE =
       ["npm:0.1.1", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/@mischnic-json-sourcemap-npm-0.1.1-eed67dd6e4-10c0.zip/node_modules/@mischnic/json-sourcemap/",\
         "packageDependencies": [\
-          ["@lezer/common", "npm:1.2.3"],\
+          ["@lezer/common", "npm:1.3.0"],\
           ["@lezer/lr", "npm:1.4.2"],\
           ["@mischnic/json-sourcemap", "npm:0.1.1"],\
           ["json5", "npm:2.2.3"]\
@@ -1413,7 +1413,7 @@ const RAW_RUNTIME_STATE =
           ["is-glob", "npm:4.0.3"],\
           ["micromatch", "npm:4.0.8"],\
           ["node-addon-api", "npm:7.1.1"],\
-          ["node-gyp", "npm:11.4.2"]\
+          ["node-gyp", "npm:11.5.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2227,10 +2227,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["baseline-browser-mapping", [\
-      ["npm:2.8.16", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/baseline-browser-mapping-npm-2.8.16-ad69292963-10c0.zip/node_modules/baseline-browser-mapping/",\
+      ["npm:2.8.18", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/baseline-browser-mapping-npm-2.8.18-66115fb2ff-10c0.zip/node_modules/baseline-browser-mapping/",\
         "packageDependencies": [\
-          ["baseline-browser-mapping", "npm:2.8.16"]\
+          ["baseline-browser-mapping", "npm:2.8.18"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2268,11 +2268,11 @@ const RAW_RUNTIME_STATE =
       ["npm:4.26.3", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/browserslist-npm-4.26.3-a3d5d315b1-10c0.zip/node_modules/browserslist/",\
         "packageDependencies": [\
-          ["baseline-browser-mapping", "npm:2.8.16"],\
+          ["baseline-browser-mapping", "npm:2.8.18"],\
           ["browserslist", "npm:4.26.3"],\
-          ["caniuse-lite", "npm:1.0.30001750"],\
-          ["electron-to-chromium", "npm:1.5.234"],\
-          ["node-releases", "npm:2.0.23"],\
+          ["caniuse-lite", "npm:1.0.30001751"],\
+          ["electron-to-chromium", "npm:1.5.237"],\
+          ["node-releases", "npm:2.0.25"],\
           ["update-browserslist-db", "virtual:a3d5d315b18a8efd5c6c6fa0a7cb47735114bfe945a51fdf8abace3d923b097861a54a987821a6a208a9c0ea0a7af561be5ae7a37c61244aa72655bb6c469aa8#npm:1.1.3"]\
         ],\
         "linkType": "HARD"\
@@ -2331,10 +2331,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["caniuse-lite", [\
-      ["npm:1.0.30001750", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001750-46377a8526-10c0.zip/node_modules/caniuse-lite/",\
+      ["npm:1.0.30001751", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001751-1e03ddb5a2-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
-          ["caniuse-lite", "npm:1.0.30001750"]\
+          ["caniuse-lite", "npm:1.0.30001751"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2575,10 +2575,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["electron-to-chromium", [\
-      ["npm:1.5.234", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/electron-to-chromium-npm-1.5.234-872a6fe2d7-10c0.zip/node_modules/electron-to-chromium/",\
+      ["npm:1.5.237", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/electron-to-chromium-npm-1.5.237-e6c5a571d2-10c0.zip/node_modules/electron-to-chromium/",\
         "packageDependencies": [\
-          ["electron-to-chromium", "npm:1.5.234"]\
+          ["electron-to-chromium", "npm:1.5.237"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3223,10 +3223,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["immutable", [\
-      ["npm:5.1.3", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/immutable-npm-5.1.3-27d8e1c55d-10c0.zip/node_modules/immutable/",\
+      ["npm:5.1.4", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/immutable-npm-5.1.4-cddca3d05c-10c0.zip/node_modules/immutable/",\
         "packageDependencies": [\
-          ["immutable", "npm:5.1.3"]\
+          ["immutable", "npm:5.1.4"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3616,7 +3616,7 @@ const RAW_RUNTIME_STATE =
           ["lmdb", "npm:2.8.5"],\
           ["msgpackr", "npm:1.11.5"],\
           ["node-addon-api", "npm:6.1.0"],\
-          ["node-gyp", "npm:11.4.2"],\
+          ["node-gyp", "npm:11.5.0"],\
           ["node-gyp-build-optional-packages", "npm:5.1.1"],\
           ["ordered-binary", "npm:1.6.0"],\
           ["weak-lru-cache", "npm:1.2.2"]\
@@ -3829,7 +3829,7 @@ const RAW_RUNTIME_STATE =
           ["@msgpackr-extract/msgpackr-extract-linux-x64", "npm:3.0.3"],\
           ["@msgpackr-extract/msgpackr-extract-win32-x64", "npm:3.0.3"],\
           ["msgpackr-extract", "npm:3.0.3"],\
-          ["node-gyp", "npm:11.4.2"],\
+          ["node-gyp", "npm:11.5.0"],\
           ["node-gyp-build-optional-packages", "npm:5.2.2"]\
         ],\
         "linkType": "HARD"\
@@ -3858,7 +3858,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/unplugged/node-addon-api-npm-6.1.0-634c545b39/node_modules/node-addon-api/",\
         "packageDependencies": [\
           ["node-addon-api", "npm:6.1.0"],\
-          ["node-gyp", "npm:11.4.2"]\
+          ["node-gyp", "npm:11.5.0"]\
         ],\
         "linkType": "HARD"\
       }],\
@@ -3866,20 +3866,20 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/unplugged/node-addon-api-npm-7.1.1-bfb302df19/node_modules/node-addon-api/",\
         "packageDependencies": [\
           ["node-addon-api", "npm:7.1.1"],\
-          ["node-gyp", "npm:11.4.2"]\
+          ["node-gyp", "npm:11.5.0"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["node-gyp", [\
-      ["npm:11.4.2", {\
-        "packageLocation": "./.yarn/unplugged/node-gyp-npm-11.4.2-75a7da9a3c/node_modules/node-gyp/",\
+      ["npm:11.5.0", {\
+        "packageLocation": "./.yarn/unplugged/node-gyp-npm-11.5.0-6cfe9d790c/node_modules/node-gyp/",\
         "packageDependencies": [\
           ["env-paths", "npm:2.2.1"],\
           ["exponential-backoff", "npm:3.1.3"],\
           ["graceful-fs", "npm:4.2.11"],\
           ["make-fetch-happen", "npm:14.0.3"],\
-          ["node-gyp", "npm:11.4.2"],\
+          ["node-gyp", "npm:11.5.0"],\
           ["nopt", "npm:8.1.0"],\
           ["proc-log", "npm:5.0.0"],\
           ["semver", "npm:7.7.3"],\
@@ -3909,10 +3909,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["node-releases", [\
-      ["npm:2.0.23", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/node-releases-npm-2.0.23-e2f8519037-10c0.zip/node_modules/node-releases/",\
+      ["npm:2.0.25", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/node-releases-npm-2.0.25-299a9e3a8a-10c0.zip/node_modules/node-releases/",\
         "packageDependencies": [\
-          ["node-releases", "npm:2.0.23"]\
+          ["node-releases", "npm:2.0.25"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -4479,7 +4479,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@parcel/watcher", "npm:2.5.1"],\
           ["chokidar", "npm:4.0.3"],\
-          ["immutable", "npm:5.1.3"],\
+          ["immutable", "npm:5.1.4"],\
           ["sass", "npm:1.93.2"],\
           ["source-map-js", "npm:1.2.1"]\
         ],\
