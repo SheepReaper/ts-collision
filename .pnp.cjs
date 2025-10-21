@@ -39,7 +39,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/parser", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:7.18.0"],\
           ["eslint", "npm:8.57.1"],\
           ["eslint-config-prettier", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:9.1.2"],\
-          ["p5", "npm:1.11.10"],\
+          ["p5", "npm:1.11.11"],\
           ["parcel", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:2.16.0"],\
           ["prettier", "npm:3.6.2"],\
           ["ts-collision", "workspace:."],\
@@ -4009,10 +4009,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["p5", [\
-      ["npm:1.11.10", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/p5-npm-1.11.10-792f1f16e4-10c0.zip/node_modules/p5/",\
+      ["npm:1.11.11", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/p5-npm-1.11.11-0956aaae63-10c0.zip/node_modules/p5/",\
         "packageDependencies": [\
-          ["p5", "npm:1.11.10"]\
+          ["p5", "npm:1.11.11"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -4763,7 +4763,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/parser", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:7.18.0"],\
           ["eslint", "npm:8.57.1"],\
           ["eslint-config-prettier", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:9.1.2"],\
-          ["p5", "npm:1.11.10"],\
+          ["p5", "npm:1.11.11"],\
           ["parcel", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:2.16.0"],\
           ["prettier", "npm:3.6.2"],\
           ["ts-collision", "workspace:."],\
