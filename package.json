@@ -9,8 +9,8 @@
     "build": "parcel build"
   },
   "devDependencies": {
-    "@parcel/transformer-pug": "2.16.0",
-    "@parcel/transformer-sass": "2.16.0",
+    "@parcel/transformer-pug": "2.16.1",
+    "@parcel/transformer-sass": "2.16.1",
     "@prettier/plugin-pug": "3.4.2",
     "@types/eslint": "8.56.12",
     "@types/p5": "1.7.7",
@@ -21,7 +21,7 @@
     "eslint": "8.57.1",
     "eslint-config-prettier": "9.1.2",
     "p5": "1.11.11",
-    "parcel": "2.16.0",
+    "parcel": "2.16.1",
     "prettier": "3.6.2",
     "typescript": "5.9.3",
     "uuid": "9.0.1"
