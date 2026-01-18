@@ -22,7 +22,7 @@
     "eslint-config-prettier": "9.1.2",
     "p5": "1.11.11",
     "parcel": "2.16.3",
-    "prettier": "3.7.4",
+    "prettier": "3.8.0",
     "typescript": "5.9.3",
     "uuid": "9.0.1"
   }

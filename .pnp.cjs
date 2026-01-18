@@ -41,7 +41,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-config-prettier", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:9.1.2"],\
           ["p5", "npm:1.11.11"],\
           ["parcel", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:2.16.3"],\
-          ["prettier", "npm:3.7.4"],\
+          ["prettier", "npm:3.8.0"],\
           ["ts-collision", "workspace:."],\
           ["typescript", "patch:typescript@npm%3A5.9.3#optional!builtin<compat/typescript>::version=5.9.3&hash=5786d5"],\
           ["uuid", "npm:9.0.1"]\
@@ -1590,7 +1590,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@prettier/plugin-pug", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:3.4.2"],\
           ["@types/prettier", "npm:3.0.0"],\
-          ["prettier", "npm:3.7.4"],\
+          ["prettier", "npm:3.8.0"],\
           ["pug-lexer", "npm:5.0.1"]\
         ],\
         "packagePeers": [\
@@ -4012,6 +4012,13 @@ const RAW_RUNTIME_STATE =
           ["prettier", "npm:3.7.4"]\
         ],\
         "linkType": "HARD"\
+      }],\
+      ["npm:3.8.0", {\
+        "packageLocation": "./.yarn/unplugged/prettier-npm-3.8.0-7cbf267d2c/node_modules/prettier/",\
+        "packageDependencies": [\
+          ["prettier", "npm:3.8.0"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["proc-log", [\
@@ -4529,7 +4536,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-config-prettier", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:9.1.2"],\
           ["p5", "npm:1.11.11"],\
           ["parcel", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:2.16.3"],\
-          ["prettier", "npm:3.7.4"],\
+          ["prettier", "npm:3.8.0"],\
           ["ts-collision", "workspace:."],\
           ["typescript", "patch:typescript@npm%3A5.9.3#optional!builtin<compat/typescript>::version=5.9.3&hash=5786d5"],\
           ["uuid", "npm:9.0.1"]\
