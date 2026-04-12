@@ -20,7 +20,7 @@
     "@typescript-eslint/parser": "8.58.1",
     "eslint": "8.57.1",
     "eslint-config-prettier": "9.1.2",
-    "p5": "1.11.12",
+    "p5": "1.11.13",
     "parcel": "2.16.4",
     "prettier": "3.8.1",
     "typescript": "5.9.3",
