@@ -44,7 +44,7 @@ const RAW_RUNTIME_STATE =
           ["prettier", "npm:3.8.3"],\
           ["ts-collision", "workspace:."],\
           ["typescript", "patch:typescript@npm%3A5.9.3#optional!builtin<compat/typescript>::version=5.9.3&hash=5786d5"],\
-          ["uuid", "npm:9.0.1"]\
+          ["uuid", "npm:14.0.0"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -1601,14 +1601,14 @@ const RAW_RUNTIME_STATE =
     ]],\
     ["@swc/core", [\
       ["npm:1.15.30", {\
-        "packageLocation": "./.yarn/unplugged/@swc-core-virtual-228ae2ea77/node_modules/@swc/core/",\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@swc-core-npm-1.15.30-c3b2c412da-10c0.zip/node_modules/@swc/core/",\
         "packageDependencies": [\
           ["@swc/core", "npm:1.15.30"]\
         ],\
         "linkType": "SOFT"\
       }],\
       ["virtual:445e674429e364fe7b9e6200eb36e8015ce27a68e3c9e4f29fc671f9d97d54d1ce819bcaf9beb157e9278dc00aa68ba3d158fa36b1bf0b27f88f9ca9d9d1524d#npm:1.15.30", {\
-        "packageLocation": "./.yarn/unplugged/@swc-core-virtual-228ae2ea77/node_modules/@swc/core/",\
+        "packageLocation": "./.yarn/__virtual__/@swc-core-virtual-228ae2ea77/7/runner/cache/others/berry/cache/@swc-core-npm-1.15.30-c3b2c412da-10c0.zip/node_modules/@swc/core/",\
         "packageDependencies": [\
           ["@swc/core", "virtual:445e674429e364fe7b9e6200eb36e8015ce27a68e3c9e4f29fc671f9d97d54d1ce819bcaf9beb157e9278dc00aa68ba3d158fa36b1bf0b27f88f9ca9d9d1524d#npm:1.15.30"],\
           ["@swc/core-darwin-arm64", "npm:1.15.30"],\
@@ -4512,7 +4512,7 @@ const RAW_RUNTIME_STATE =
           ["prettier", "npm:3.8.3"],\
           ["ts-collision", "workspace:."],\
           ["typescript", "patch:typescript@npm%3A5.9.3#optional!builtin<compat/typescript>::version=5.9.3&hash=5786d5"],\
-          ["uuid", "npm:9.0.1"]\
+          ["uuid", "npm:14.0.0"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -4598,10 +4598,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["uuid", [\
-      ["npm:9.0.1", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/uuid-npm-9.0.1-39a8442bc6-10c0.zip/node_modules/uuid/",\
+      ["npm:14.0.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/uuid-npm-14.0.0-5e662e945a-10c0.zip/node_modules/uuid/",\
         "packageDependencies": [\
-          ["uuid", "npm:9.0.1"]\
+          ["uuid", "npm:14.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
