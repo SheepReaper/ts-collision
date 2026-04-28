@@ -39,7 +39,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/parser", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:8.59.0"],\
           ["eslint", "npm:8.57.1"],\
           ["eslint-config-prettier", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:9.1.2"],\
-          ["p5", "npm:1.11.13"],\
+          ["p5", "npm:2.2.3"],\
           ["parcel", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:2.16.4"],\
           ["prettier", "npm:3.8.3"],\
           ["ts-collision", "workspace:."],\
@@ -77,6 +77,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["@babel/runtime", [\
+      ["npm:7.29.2", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@babel-runtime-npm-7.29.2-b49cad1c67-10c0.zip/node_modules/@babel/runtime/",\
+        "packageDependencies": [\
+          ["@babel/runtime", "npm:7.29.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["@babel/types", [\
       ["npm:7.29.0", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/@babel-types-npm-7.29.0-6c2fa77581-10c0.zip/node_modules/@babel/types/",\
@@ -84,6 +93,15 @@ const RAW_RUNTIME_STATE =
           ["@babel/helper-string-parser", "npm:7.27.1"],\
           ["@babel/helper-validator-identifier", "npm:7.28.5"],\
           ["@babel/types", "npm:7.29.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@davepagurek/bezier-path", [\
+      ["npm:0.0.7", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@davepagurek-bezier-path-npm-0.0.7-5ea386be44-10c0.zip/node_modules/@davepagurek/bezier-path/",\
+        "packageDependencies": [\
+          ["@davepagurek/bezier-path", "npm:0.0.7"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -197,6 +215,15 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@isaacs/fs-minipass", "npm:4.0.1"],\
           ["minipass", "npm:7.1.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@japont/unicode-range", [\
+      ["npm:1.0.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@japont-unicode-range-npm-1.0.0-4b529cd3fe-10c0.zip/node_modules/@japont/unicode-range/",\
+        "packageDependencies": [\
+          ["@japont/unicode-range", "npm:1.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2082,6 +2109,16 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["acorn-walk", [\
+      ["npm:8.3.5", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/acorn-walk-npm-8.3.5-871d141ed6-10c0.zip/node_modules/acorn-walk/",\
+        "packageDependencies": [\
+          ["acorn", "npm:8.16.0"],\
+          ["acorn-walk", "npm:8.3.5"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["ajv", [\
       ["npm:6.15.0", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/ajv-npm-6.15.0-0a6bf8fa72-10c0.zip/node_modules/ajv/",\
@@ -2354,6 +2391,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["colorjs.io", [\
+      ["npm:0.6.1", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/colorjs.io-npm-0.6.1-0184135268-10c0.zip/node_modules/colorjs.io/",\
+        "packageDependencies": [\
+          ["colorjs.io", "npm:0.6.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["commander", [\
       ["npm:12.1.0", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/commander-npm-12.1.0-65c868e907-10c0.zip/node_modules/commander/",\
@@ -2557,6 +2603,19 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["escodegen", [\
+      ["npm:2.1.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/escodegen-npm-2.1.0-e0bf940745-10c0.zip/node_modules/escodegen/",\
+        "packageDependencies": [\
+          ["escodegen", "npm:2.1.0"],\
+          ["esprima", "npm:4.0.1"],\
+          ["estraverse", "npm:5.3.0"],\
+          ["esutils", "npm:2.0.3"],\
+          ["source-map", "npm:0.6.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["eslint", [\
       ["npm:8.57.1", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/eslint-npm-8.57.1-dd20287a5a-10c0.zip/node_modules/eslint/",\
@@ -2661,6 +2720,15 @@ const RAW_RUNTIME_STATE =
           ["acorn-jsx", "virtual:a50722a5a9326b6a5f12350c494c4db3aa0f4caeac45e3e9e5fe071da20014ecfe738fe2ebe2c9c98abae81a4ea86b42f56d776b3bd5ec37f9ad3670c242b242#npm:5.3.2"],\
           ["eslint-visitor-keys", "npm:3.4.3"],\
           ["espree", "npm:9.6.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["esprima", [\
+      ["npm:4.0.1", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/esprima-npm-4.0.1-1084e98778-10c0.zip/node_modules/esprima/",\
+        "packageDependencies": [\
+          ["esprima", "npm:4.0.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2882,6 +2950,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["gifenc", [\
+      ["npm:1.0.3", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/gifenc-npm-1.0.3-dbfd108793-10c0.zip/node_modules/gifenc/",\
+        "packageDependencies": [\
+          ["gifenc", "npm:1.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["glob", [\
       ["npm:7.2.3", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/glob-npm-7.2.3-2d866d17a5-10c0.zip/node_modules/glob/",\
@@ -2978,6 +3055,26 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["function-bind", "npm:1.1.2"],\
           ["hasown", "npm:2.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["i18next", [\
+      ["npm:19.9.2", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/i18next-npm-19.9.2-de8338ce18-10c0.zip/node_modules/i18next/",\
+        "packageDependencies": [\
+          ["@babel/runtime", "npm:7.29.2"],\
+          ["i18next", "npm:19.9.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["i18next-browser-languagedetector", [\
+      ["npm:4.3.1", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/i18next-browser-languagedetector-npm-4.3.1-b6ed312066-10c0.zip/node_modules/i18next-browser-languagedetector/",\
+        "packageDependencies": [\
+          ["@babel/runtime", "npm:7.29.2"],\
+          ["i18next-browser-languagedetector", "npm:4.3.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3217,6 +3314,15 @@ const RAW_RUNTIME_STATE =
           ["levn", "npm:0.4.1"],\
           ["prelude-ls", "npm:1.2.1"],\
           ["type-check", "npm:0.4.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["libtess", [\
+      ["npm:1.2.2", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/libtess-npm-1.2.2-2a54b76bcb-10c0.zip/node_modules/libtess/",\
+        "packageDependencies": [\
+          ["libtess", "npm:1.2.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3564,6 +3670,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["omggif", [\
+      ["npm:1.0.10", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/omggif-npm-1.0.10-6ffa5bf343-10c0.zip/node_modules/omggif/",\
+        "packageDependencies": [\
+          ["omggif", "npm:1.0.10"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["once", [\
       ["npm:1.4.0", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/once-npm-1.4.0-ccf03ef07a-10c0.zip/node_modules/once/",\
@@ -3619,10 +3734,32 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["p5", [\
-      ["npm:1.11.13", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/p5-npm-1.11.13-898efcd566-10c0.zip/node_modules/p5/",\
+      ["npm:2.2.3", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/p5-npm-2.2.3-76aa222a46-10c0.zip/node_modules/p5/",\
         "packageDependencies": [\
-          ["p5", "npm:1.11.13"]\
+          ["@davepagurek/bezier-path", "npm:0.0.7"],\
+          ["@japont/unicode-range", "npm:1.0.0"],\
+          ["acorn", "npm:8.16.0"],\
+          ["acorn-walk", "npm:8.3.5"],\
+          ["colorjs.io", "npm:0.6.1"],\
+          ["escodegen", "npm:2.1.0"],\
+          ["gifenc", "npm:1.0.3"],\
+          ["i18next", "npm:19.9.2"],\
+          ["i18next-browser-languagedetector", "npm:4.3.1"],\
+          ["libtess", "npm:1.2.2"],\
+          ["omggif", "npm:1.0.10"],\
+          ["p5", "npm:2.2.3"],\
+          ["pako", "npm:2.1.0"],\
+          ["zod", "npm:4.3.6"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["pako", [\
+      ["npm:2.1.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/pako-npm-2.1.0-78df11948c-10c0.zip/node_modules/pako/",\
+        "packageDependencies": [\
+          ["pako", "npm:2.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -4060,6 +4197,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["source-map", [\
+      ["npm:0.6.1", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/source-map-npm-0.6.1-1a3621db16-10c0.zip/node_modules/source-map/",\
+        "packageDependencies": [\
+          ["source-map", "npm:0.6.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["source-map-js", [\
       ["npm:1.2.1", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/source-map-js-npm-1.2.1-b9a47d7e1a-10c0.zip/node_modules/source-map-js/",\
@@ -4196,7 +4342,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/parser", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:8.59.0"],\
           ["eslint", "npm:8.57.1"],\
           ["eslint-config-prettier", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:9.1.2"],\
-          ["p5", "npm:1.11.13"],\
+          ["p5", "npm:2.2.3"],\
           ["parcel", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:2.16.4"],\
           ["prettier", "npm:3.8.3"],\
           ["ts-collision", "workspace:."],\
@@ -4385,6 +4531,15 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/yocto-queue-npm-0.1.0-c6c9a7db29-10c0.zip/node_modules/yocto-queue/",\
         "packageDependencies": [\
           ["yocto-queue", "npm:0.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["zod", [\
+      ["npm:4.3.6", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/zod-npm-4.3.6-a096e305e6-10c0.zip/node_modules/zod/",\
+        "packageDependencies": [\
+          ["zod", "npm:4.3.6"]\
         ],\
         "linkType": "HARD"\
       }]\
