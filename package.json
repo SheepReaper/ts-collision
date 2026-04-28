@@ -18,7 +18,7 @@
     "@types/uuid": "9.0.8",
     "@typescript-eslint/eslint-plugin": "8.59.0",
     "@typescript-eslint/parser": "8.59.0",
-    "eslint": "8.57.1",
+    "eslint": "10.2.1",
     "eslint-config-prettier": "9.1.2",
     "p5": "1.11.13",
     "parcel": "2.16.4",
