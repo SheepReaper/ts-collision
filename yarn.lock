@@ -1435,10 +1435,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/uuid@npm:9.0.8":
-  version: 9.0.8
-  resolution: "@types/uuid@npm:9.0.8"
-  checksum: 10c0/b411b93054cb1d4361919579ef3508a1f12bf15b5fdd97337d3d351bece6c921b52b6daeef89b62340fd73fd60da407878432a1af777f40648cbe53a01723489
+"@types/uuid@npm:11.0.0":
+  version: 11.0.0
+  resolution: "@types/uuid@npm:11.0.0"
+  dependencies:
+    uuid: "npm:*"
+  checksum: 10c0/6ebf1448d8fdc78d348a8a84389b74083f2f58bed75a5a6cf3be8419d33dcf757735c8b2de746b066ff8ef07f4384d02549774dc84195ffa46b24745471e9d8e
   languageName: node
   linkType: hard
 
@@ -3492,7 +3494,7 @@ __metadata:
     "@types/eslint": "npm:8.56.12"
     "@types/p5": "npm:1.7.7"
     "@types/prettier": "npm:3.0.0"
-    "@types/uuid": "npm:9.0.8"
+    "@types/uuid": "npm:11.0.0"
     "@typescript-eslint/eslint-plugin": "npm:8.59.0"
     "@typescript-eslint/parser": "npm:8.59.0"
     eslint: "npm:8.57.1"
@@ -3585,7 +3587,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"uuid@npm:14.0.0":
+"uuid@npm:*, uuid@npm:14.0.0":
   version: 14.0.0
   resolution: "uuid@npm:14.0.0"
   bin:
