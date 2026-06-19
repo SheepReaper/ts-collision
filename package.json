@@ -1,6 +1,6 @@
 {
   "name": "ts-collision",
-  "packageManager": "yarn@4.16.0",
+  "packageManager": "yarn@4.17.0",
   "source": "src/index.pug",
   "scripts": {
     "serve": "parcel",
