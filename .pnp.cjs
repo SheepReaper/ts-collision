@@ -1364,8 +1364,8 @@ const RAW_RUNTIME_STATE =
           ["detect-libc", "npm:2.1.2"],\
           ["is-glob", "npm:4.0.3"],\
           ["node-addon-api", "npm:7.1.1"],\
-          ["node-gyp", "npm:13.0.0"],\
-          ["picomatch", "npm:4.0.4"]\
+          ["node-gyp", "npm:13.0.1"],\
+          ["picomatch", "npm:4.0.5"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -1773,7 +1773,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-prettier-npm-3.0.0-6c770110eb-10c0.zip/node_modules/@types/prettier/",\
         "packageDependencies": [\
           ["@types/prettier", "npm:3.0.0"],\
-          ["prettier", "npm:3.9.1"]\
+          ["prettier", "npm:3.9.4"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2196,10 +2196,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["baseline-browser-mapping", [\
-      ["npm:2.10.40", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/baseline-browser-mapping-npm-2.10.40-b4753d0d1b-10c0.zip/node_modules/baseline-browser-mapping/",\
+      ["npm:2.10.42", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/baseline-browser-mapping-npm-2.10.42-618f5daf96-10c0.zip/node_modules/baseline-browser-mapping/",\
         "packageDependencies": [\
-          ["baseline-browser-mapping", "npm:2.10.40"]\
+          ["baseline-browser-mapping", "npm:2.10.42"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2214,11 +2214,11 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:5.0.6", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/brace-expansion-npm-5.0.6-abf39a1281-10c0.zip/node_modules/brace-expansion/",\
+      ["npm:5.0.7", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/brace-expansion-npm-5.0.7-48dc108338-10c0.zip/node_modules/brace-expansion/",\
         "packageDependencies": [\
           ["balanced-match", "npm:4.0.4"],\
-          ["brace-expansion", "npm:5.0.6"]\
+          ["brace-expansion", "npm:5.0.7"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2227,10 +2227,10 @@ const RAW_RUNTIME_STATE =
       ["npm:4.28.4", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/browserslist-npm-4.28.4-d2a4019f9c-10c0.zip/node_modules/browserslist/",\
         "packageDependencies": [\
-          ["baseline-browser-mapping", "npm:2.10.40"],\
+          ["baseline-browser-mapping", "npm:2.10.42"],\
           ["browserslist", "npm:4.28.4"],\
-          ["caniuse-lite", "npm:1.0.30001799"],\
-          ["electron-to-chromium", "npm:1.5.380"],\
+          ["caniuse-lite", "npm:1.0.30001800"],\
+          ["electron-to-chromium", "npm:1.5.387"],\
           ["node-releases", "npm:2.0.50"],\
           ["update-browserslist-db", "virtual:d2a4019f9c6ce23cf08162b5103c0a2164f761c5736c2d84fbf40d856bd9c3cee70d654a97eecf0adc6d8d842920fa2a9d38193a58fa79ef2bdd67d18553a24c#npm:1.2.3"]\
         ],\
@@ -2269,10 +2269,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["caniuse-lite", [\
-      ["npm:1.0.30001799", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001799-1fb8e6b00a-10c0.zip/node_modules/caniuse-lite/",\
+      ["npm:1.0.30001800", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001800-6660c048e0-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
-          ["caniuse-lite", "npm:1.0.30001799"]\
+          ["caniuse-lite", "npm:1.0.30001800"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2494,10 +2494,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["electron-to-chromium", [\
-      ["npm:1.5.380", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/electron-to-chromium-npm-1.5.380-ec97230e6a-10c0.zip/node_modules/electron-to-chromium/",\
+      ["npm:1.5.387", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/electron-to-chromium-npm-1.5.387-0405dbfc9b-10c0.zip/node_modules/electron-to-chromium/",\
         "packageDependencies": [\
-          ["electron-to-chromium", "npm:1.5.380"]\
+          ["electron-to-chromium", "npm:1.5.387"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2762,7 +2762,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@types/picomatch", null],\
           ["fdir", "virtual:f2c3ddb9177a69fd371e15c77b73bfaf3f96b278d9e45c2d22b493c8bc3e58f571555e32a44df0c8c1a132e08889c6c9fdf9f21791163f07c9a5aef76fddb09f#npm:6.5.0"],\
-          ["picomatch", "npm:4.0.4"]\
+          ["picomatch", "npm:4.0.5"]\
         ],\
         "packagePeers": [\
           "@types/picomatch",\
@@ -2999,10 +2999,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["immutable", [\
-      ["npm:5.1.8", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/immutable-npm-5.1.8-c7796906c8-10c0.zip/node_modules/immutable/",\
+      ["npm:5.1.9", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/immutable-npm-5.1.9-35365e455d-10c0.zip/node_modules/immutable/",\
         "packageDependencies": [\
-          ["immutable", "npm:5.1.8"]\
+          ["immutable", "npm:5.1.9"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3354,7 +3354,7 @@ const RAW_RUNTIME_STATE =
           ["lmdb", "npm:2.8.5"],\
           ["msgpackr", "npm:1.12.1"],\
           ["node-addon-api", "npm:6.1.0"],\
-          ["node-gyp", "npm:13.0.0"],\
+          ["node-gyp", "npm:13.0.1"],\
           ["node-gyp-build-optional-packages", "npm:5.1.1"],\
           ["ordered-binary", "npm:1.6.1"],\
           ["weak-lru-cache", "npm:1.2.2"]\
@@ -3394,7 +3394,7 @@ const RAW_RUNTIME_STATE =
       ["npm:10.2.5", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/minimatch-npm-10.2.5-f1c8297822-10c0.zip/node_modules/minimatch/",\
         "packageDependencies": [\
-          ["brace-expansion", "npm:5.0.6"],\
+          ["brace-expansion", "npm:5.0.7"],\
           ["minimatch", "npm:10.2.5"]\
         ],\
         "linkType": "HARD"\
@@ -3457,7 +3457,7 @@ const RAW_RUNTIME_STATE =
           ["@msgpackr-extract/msgpackr-extract-linux-x64", "npm:3.0.4"],\
           ["@msgpackr-extract/msgpackr-extract-win32-x64", "npm:3.0.4"],\
           ["msgpackr-extract", "npm:3.0.4"],\
-          ["node-gyp", "npm:13.0.0"],\
+          ["node-gyp", "npm:13.0.1"],\
           ["node-gyp-build-optional-packages", "npm:5.2.2"]\
         ],\
         "linkType": "HARD"\
@@ -3477,7 +3477,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/unplugged/node-addon-api-npm-6.1.0-634c545b39/node_modules/node-addon-api/",\
         "packageDependencies": [\
           ["node-addon-api", "npm:6.1.0"],\
-          ["node-gyp", "npm:13.0.0"]\
+          ["node-gyp", "npm:13.0.1"]\
         ],\
         "linkType": "HARD"\
       }],\
@@ -3485,25 +3485,25 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/unplugged/node-addon-api-npm-7.1.1-bfb302df19/node_modules/node-addon-api/",\
         "packageDependencies": [\
           ["node-addon-api", "npm:7.1.1"],\
-          ["node-gyp", "npm:13.0.0"]\
+          ["node-gyp", "npm:13.0.1"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["node-gyp", [\
-      ["npm:13.0.0", {\
-        "packageLocation": "./.yarn/unplugged/node-gyp-npm-13.0.0-f910600f25/node_modules/node-gyp/",\
+      ["npm:13.0.1", {\
+        "packageLocation": "./.yarn/unplugged/node-gyp-npm-13.0.1-b64b93933d/node_modules/node-gyp/",\
         "packageDependencies": [\
           ["env-paths", "npm:2.2.1"],\
           ["exponential-backoff", "npm:3.1.3"],\
           ["graceful-fs", "npm:4.2.11"],\
-          ["node-gyp", "npm:13.0.0"],\
+          ["node-gyp", "npm:13.0.1"],\
           ["nopt", "npm:10.0.1"],\
           ["proc-log", "npm:7.0.0"],\
           ["semver", "npm:7.8.5"],\
           ["tar", "npm:7.5.19"],\
           ["tinyglobby", "npm:0.2.17"],\
-          ["undici", "npm:6.27.0"],\
+          ["undici", "npm:8.7.0"],\
           ["which", "npm:7.0.0"]\
         ],\
         "linkType": "HARD"\
@@ -3718,10 +3718,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["picomatch", [\
-      ["npm:4.0.4", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/picomatch-npm-4.0.4-e82d450244-10c0.zip/node_modules/picomatch/",\
+      ["npm:4.0.5", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/picomatch-npm-4.0.5-bb8e0de0f7-10c0.zip/node_modules/picomatch/",\
         "packageDependencies": [\
-          ["picomatch", "npm:4.0.4"]\
+          ["picomatch", "npm:4.0.5"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3745,13 +3745,6 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["prettier", [\
-      ["npm:3.9.1", {\
-        "packageLocation": "./.yarn/unplugged/prettier-npm-3.9.1-8aa9b65a17/node_modules/prettier/",\
-        "packageDependencies": [\
-          ["prettier", "npm:3.9.1"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:3.9.4", {\
         "packageLocation": "./.yarn/unplugged/prettier-npm-3.9.4-4fe91639db/node_modules/prettier/",\
         "packageDependencies": [\
@@ -4032,7 +4025,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@parcel/watcher", "npm:2.5.6"],\
           ["chokidar", "npm:5.0.0"],\
-          ["immutable", "npm:5.1.8"],\
+          ["immutable", "npm:5.1.9"],\
           ["sass", "npm:1.101.0"],\
           ["source-map-js", "npm:1.2.1"]\
         ],\
@@ -4151,7 +4144,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/tinyglobby-npm-0.2.17-f2c3ddb917-10c0.zip/node_modules/tinyglobby/",\
         "packageDependencies": [\
           ["fdir", "virtual:f2c3ddb9177a69fd371e15c77b73bfaf3f96b278d9e45c2d22b493c8bc3e58f571555e32a44df0c8c1a132e08889c6c9fdf9f21791163f07c9a5aef76fddb09f#npm:6.5.0"],\
-          ["picomatch", "npm:4.0.4"],\
+          ["picomatch", "npm:4.0.5"],\
           ["tinyglobby", "npm:0.2.17"]\
         ],\
         "linkType": "HARD"\
@@ -4251,10 +4244,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["undici", [\
-      ["npm:6.27.0", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/undici-npm-6.27.0-00a86409ac-10c0.zip/node_modules/undici/",\
+      ["npm:8.7.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/undici-npm-8.7.0-5924f7a7c1-10c0.zip/node_modules/undici/",\
         "packageDependencies": [\
-          ["undici", "npm:6.27.0"]\
+          ["undici", "npm:8.7.0"]\
         ],\
         "linkType": "HARD"\
       }]\
