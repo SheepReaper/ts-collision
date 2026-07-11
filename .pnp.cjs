@@ -3836,7 +3836,7 @@ const RAW_RUNTIME_STATE =
           ["pug-error", "npm:2.1.0"],\
           ["pug-filters", "npm:4.0.0"],\
           ["pug-walk", "npm:2.0.0"],\
-          ["resolve", "patch:resolve@npm%3A1.22.12#optional!builtin<compat/resolve>::version=1.22.12&hash=c3c19d"]\
+          ["resolve", "patch:resolve@npm%3A1.22.12#optional!builtin<compat/resolve>::version=1.22.12&hash=9bd1a5"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3960,13 +3960,13 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["resolve", [\
-      ["patch:resolve@npm%3A1.22.12#optional!builtin<compat/resolve>::version=1.22.12&hash=c3c19d", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/resolve-patch-2234730f98-10c0.zip/node_modules/resolve/",\
+      ["patch:resolve@npm%3A1.22.12#optional!builtin<compat/resolve>::version=1.22.12&hash=9bd1a5", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/resolve-patch-46fcdcd77a-10c0.zip/node_modules/resolve/",\
         "packageDependencies": [\
           ["es-errors", "npm:1.3.0"],\
           ["is-core-module", "npm:2.16.2"],\
           ["path-parse", "npm:1.0.7"],\
-          ["resolve", "patch:resolve@npm%3A1.22.12#optional!builtin<compat/resolve>::version=1.22.12&hash=c3c19d"],\
+          ["resolve", "patch:resolve@npm%3A1.22.12#optional!builtin<compat/resolve>::version=1.22.12&hash=9bd1a5"],\
           ["supports-preserve-symlinks-flag", "npm:1.0.0"]\
         ],\
         "linkType": "HARD"\
