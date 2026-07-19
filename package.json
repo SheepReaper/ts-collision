@@ -23,7 +23,7 @@
     "p5": "1.11.13",
     "parcel": "2.16.4",
     "prettier": "3.9.5",
-    "typescript": "5.9.3",
+    "typescript": "7.0.2",
     "uuid": "14.0.1"
   }
 }
