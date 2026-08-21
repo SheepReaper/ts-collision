@@ -44,7 +44,7 @@ const RAW_RUNTIME_STATE =
           ["prettier", "npm:3.9.6"],\
           ["ts-collision", "workspace:."],\
           ["typescript", "patch:typescript@npm%3A5.9.3#optional!builtin<compat/typescript>::version=5.9.3&hash=5786d5"],\
-          ["uuid", "npm:14.0.1"]\
+          ["uuid", "npm:14.0.2"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -4198,7 +4198,7 @@ const RAW_RUNTIME_STATE =
           ["prettier", "npm:3.9.6"],\
           ["ts-collision", "workspace:."],\
           ["typescript", "patch:typescript@npm%3A5.9.3#optional!builtin<compat/typescript>::version=5.9.3&hash=5786d5"],\
-          ["uuid", "npm:14.0.1"]\
+          ["uuid", "npm:14.0.2"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -4293,10 +4293,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["uuid", [\
-      ["npm:14.0.1", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/uuid-npm-14.0.1-2fef140bc9-10c0.zip/node_modules/uuid/",\
+      ["npm:14.0.2", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/uuid-npm-14.0.2-f336308791-10c0.zip/node_modules/uuid/",\
         "packageDependencies": [\
-          ["uuid", "npm:14.0.1"]\
+          ["uuid", "npm:14.0.2"]\
         ],\
         "linkType": "HARD"\
       }]\
