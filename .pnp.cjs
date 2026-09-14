@@ -1292,7 +1292,7 @@ const RAW_RUNTIME_STATE =
           ["@parcel/plugin", "npm:2.16.4"],\
           ["@parcel/source-map", "npm:2.1.1"],\
           ["@parcel/transformer-sass", "npm:2.16.4"],\
-          ["sass", "npm:1.104.0"]\
+          ["sass", "npm:1.104.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -1806,7 +1806,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/utils", "virtual:a020a738370f1935a7583b646ebfa9408637efa9dd351c69857eb0c31bc27ccddf22519fdade57001b9b3d1b202688ff5befb8dc3ecf8b4799c2df41e18433e0#npm:8.70.0"],\
           ["@typescript-eslint/visitor-keys", "npm:8.70.0"],\
           ["eslint", "npm:8.57.1"],\
-          ["ignore", "npm:7.0.8"],\
+          ["ignore", "npm:7.0.9"],\
           ["natural-compare", "npm:1.4.0"],\
           ["ts-api-utils", "virtual:a020a738370f1935a7583b646ebfa9408637efa9dd351c69857eb0c31bc27ccddf22519fdade57001b9b3d1b202688ff5befb8dc3ecf8b4799c2df41e18433e0#npm:2.5.0"],\
           ["typescript", "patch:typescript@npm%3A5.9.3#optional!builtin<compat/typescript>::version=5.9.3&hash=5786d5"]\
@@ -2193,10 +2193,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["baseline-browser-mapping", [\
-      ["npm:2.11.21", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/baseline-browser-mapping-npm-2.11.21-815e41ca09-10c0.zip/node_modules/baseline-browser-mapping/",\
+      ["npm:2.11.23", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/baseline-browser-mapping-npm-2.11.23-49445411e4-10c0.zip/node_modules/baseline-browser-mapping/",\
         "packageDependencies": [\
-          ["baseline-browser-mapping", "npm:2.11.21"]\
+          ["baseline-browser-mapping", "npm:2.11.23"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2224,12 +2224,12 @@ const RAW_RUNTIME_STATE =
       ["npm:4.28.9", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/browserslist-npm-4.28.9-ecf274fb17-10c0.zip/node_modules/browserslist/",\
         "packageDependencies": [\
-          ["baseline-browser-mapping", "npm:2.11.21"],\
+          ["baseline-browser-mapping", "npm:2.11.23"],\
           ["browserslist", "npm:4.28.9"],\
           ["caniuse-lite", "npm:1.0.30001810"],\
-          ["electron-to-chromium", "npm:1.5.422"],\
-          ["node-releases", "npm:2.0.54"],\
-          ["update-browserslist-db", "virtual:ecf274fb176218f5e439bf661df8707db90ecfe2c62d28c88edf50be97cb56483947c7f8b1f4825a6f461d3350624a3b2be09f0bfaace49466f33e9ef337f26f#npm:1.3.2"]\
+          ["electron-to-chromium", "npm:1.5.427"],\
+          ["node-releases", "npm:2.0.55"],\
+          ["update-browserslist-db", "virtual:ecf274fb176218f5e439bf661df8707db90ecfe2c62d28c88edf50be97cb56483947c7f8b1f4825a6f461d3350624a3b2be09f0bfaace49466f33e9ef337f26f#npm:1.3.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2491,10 +2491,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["electron-to-chromium", [\
-      ["npm:1.5.422", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/electron-to-chromium-npm-1.5.422-4578d7f13d-10c0.zip/node_modules/electron-to-chromium/",\
+      ["npm:1.5.427", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/electron-to-chromium-npm-1.5.427-f7e03c3486-10c0.zip/node_modules/electron-to-chromium/",\
         "packageDependencies": [\
-          ["electron-to-chromium", "npm:1.5.422"]\
+          ["electron-to-chromium", "npm:1.5.427"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2987,10 +2987,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:7.0.8", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/ignore-npm-7.0.8-8199e1ec98-10c0.zip/node_modules/ignore/",\
+      ["npm:7.0.9", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/ignore-npm-7.0.9-fa977f0894-10c0.zip/node_modules/ignore/",\
         "packageDependencies": [\
-          ["ignore", "npm:7.0.8"]\
+          ["ignore", "npm:7.0.9"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3525,10 +3525,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["node-releases", [\
-      ["npm:2.0.54", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/node-releases-npm-2.0.54-bb06fd5c78-10c0.zip/node_modules/node-releases/",\
+      ["npm:2.0.55", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/node-releases-npm-2.0.55-85af5b89fc-10c0.zip/node_modules/node-releases/",\
         "packageDependencies": [\
-          ["node-releases", "npm:2.0.54"]\
+          ["node-releases", "npm:2.0.55"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -4017,13 +4017,13 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["sass", [\
-      ["npm:1.104.0", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/sass-npm-1.104.0-72b5fb723b-10c0.zip/node_modules/sass/",\
+      ["npm:1.104.1", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/sass-npm-1.104.1-1e13a9142c-10c0.zip/node_modules/sass/",\
         "packageDependencies": [\
           ["@parcel/watcher", "npm:2.6.0"],\
           ["chokidar", "npm:5.0.0"],\
           ["immutable", "npm:5.1.9"],\
-          ["sass", "npm:1.104.0"],\
+          ["sass", "npm:1.104.1"],\
           ["source-map-js", "npm:1.2.1"]\
         ],\
         "linkType": "HARD"\
@@ -4250,21 +4250,21 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["update-browserslist-db", [\
-      ["npm:1.3.2", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/update-browserslist-db-npm-1.3.2-2e0fa362e5-10c0.zip/node_modules/update-browserslist-db/",\
+      ["npm:1.3.3", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/update-browserslist-db-npm-1.3.3-02e6a31cfe-10c0.zip/node_modules/update-browserslist-db/",\
         "packageDependencies": [\
-          ["update-browserslist-db", "npm:1.3.2"]\
+          ["update-browserslist-db", "npm:1.3.3"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:ecf274fb176218f5e439bf661df8707db90ecfe2c62d28c88edf50be97cb56483947c7f8b1f4825a6f461d3350624a3b2be09f0bfaace49466f33e9ef337f26f#npm:1.3.2", {\
-        "packageLocation": "./.yarn/__virtual__/update-browserslist-db-virtual-34f53bad0b/7/runner/cache/others/berry/cache/update-browserslist-db-npm-1.3.2-2e0fa362e5-10c0.zip/node_modules/update-browserslist-db/",\
+      ["virtual:ecf274fb176218f5e439bf661df8707db90ecfe2c62d28c88edf50be97cb56483947c7f8b1f4825a6f461d3350624a3b2be09f0bfaace49466f33e9ef337f26f#npm:1.3.3", {\
+        "packageLocation": "./.yarn/__virtual__/update-browserslist-db-virtual-9800d8ac63/7/runner/cache/others/berry/cache/update-browserslist-db-npm-1.3.3-02e6a31cfe-10c0.zip/node_modules/update-browserslist-db/",\
         "packageDependencies": [\
           ["@types/browserslist", null],\
           ["browserslist", "npm:4.28.9"],\
           ["escalade", "npm:3.2.0"],\
           ["picocolors", "npm:1.1.1"],\
-          ["update-browserslist-db", "virtual:ecf274fb176218f5e439bf661df8707db90ecfe2c62d28c88edf50be97cb56483947c7f8b1f4825a6f461d3350624a3b2be09f0bfaace49466f33e9ef337f26f#npm:1.3.2"]\
+          ["update-browserslist-db", "virtual:ecf274fb176218f5e439bf661df8707db90ecfe2c62d28c88edf50be97cb56483947c7f8b1f4825a6f461d3350624a3b2be09f0bfaace49466f33e9ef337f26f#npm:1.3.3"]\
         ],\
         "packagePeers": [\
           "@types/browserslist",\
