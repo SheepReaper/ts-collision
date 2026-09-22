@@ -30,7 +30,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@parcel/transformer-pug", "npm:2.16.4"],\
           ["@parcel/transformer-sass", "npm:2.16.4"],\
-          ["@prettier/plugin-pug", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:3.4.2"],\
+          ["@prettier/plugin-pug", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:3.5.0"],\
           ["@types/eslint", "npm:8.56.12"],\
           ["@types/p5", "npm:1.7.7"],\
           ["@types/prettier", "npm:3.0.0"],\
@@ -1532,17 +1532,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@prettier/plugin-pug", [\
-      ["npm:3.4.2", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@prettier-plugin-pug-npm-3.4.2-dff1081dbb-10c0.zip/node_modules/@prettier/plugin-pug/",\
+      ["npm:3.5.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@prettier-plugin-pug-npm-3.5.0-8f241cfa17-10c0.zip/node_modules/@prettier/plugin-pug/",\
         "packageDependencies": [\
-          ["@prettier/plugin-pug", "npm:3.4.2"]\
+          ["@prettier/plugin-pug", "npm:3.5.0"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:3.4.2", {\
-        "packageLocation": "./.yarn/__virtual__/@prettier-plugin-pug-virtual-c8b1af77fb/7/runner/cache/others/berry/cache/@prettier-plugin-pug-npm-3.4.2-dff1081dbb-10c0.zip/node_modules/@prettier/plugin-pug/",\
+      ["virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:3.5.0", {\
+        "packageLocation": "./.yarn/__virtual__/@prettier-plugin-pug-virtual-3ffc29e1e3/7/runner/cache/others/berry/cache/@prettier-plugin-pug-npm-3.5.0-8f241cfa17-10c0.zip/node_modules/@prettier/plugin-pug/",\
         "packageDependencies": [\
-          ["@prettier/plugin-pug", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:3.4.2"],\
+          ["@prettier/plugin-pug", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:3.5.0"],\
           ["@types/prettier", "npm:3.0.0"],\
           ["prettier", "npm:3.9.8"],\
           ["pug-lexer", "npm:5.0.1"]\
@@ -4184,7 +4184,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@parcel/transformer-pug", "npm:2.16.4"],\
           ["@parcel/transformer-sass", "npm:2.16.4"],\
-          ["@prettier/plugin-pug", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:3.4.2"],\
+          ["@prettier/plugin-pug", "virtual:bf0ce581158f8885e8d14e464b272bab2ec518617cf3a6b371a5e0308038b9690f34f778c2bcb84b0d9ae75524bf6cd294469fcaa88599ab6cd33cb21060fe5a#npm:3.5.0"],\
           ["@types/eslint", "npm:8.56.12"],\
           ["@types/p5", "npm:1.7.7"],\
           ["@types/prettier", "npm:3.0.0"],\
